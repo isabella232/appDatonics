@@ -1,0 +1,290 @@
+[
+    {
+        "report":"Careers & Employment",
+        "name":"Careers & Employment",
+        "id":"140000",
+        "unique_cookies":"13753"
+    },
+    {
+        "report":"Careers & Employment",
+        "name":"C Level Executives",
+        "id":"140001",
+        "unique_cookies":"479"
+    },
+    {
+        "report":"Careers & Employment",
+        "name":"Mid Level Positions",
+        "id":"140002",
+        "unique_cookies":"6468"
+    },
+    {
+        "report":"Careers & Employment",
+        "name":"Entry Level Positions",
+        "id":"140003",
+        "unique_cookies":"54368"
+    },
+    {
+        "report":"Education",
+        "name":"High School",
+        "id":"140004",
+        "unique_cookies":"28974"
+    },
+    {
+        "report":"Education",
+        "name":"College & Admissions",
+        "id":"140004",
+        "unique_cookies":"909"
+    },
+    {
+        "report":"Education",
+        "name":"Financial Aid & Scholarship",
+        "id":"140004",
+        "unique_cookies":"897"
+    },
+    {
+        "report":"Hobbies & Interest",
+        "name":"Books & Magazines",
+        "id":"140004",
+        "unique_cookies":"289791"
+    },
+    {
+        "report":"Hobbies & Interest",
+        "name":"Events & Tickets",
+        "id":"140004",
+        "unique_cookies":"5760"
+    },
+    {
+        "report":"Entertainment",
+        "name":"Movie Enthusiasts",
+        "id":"140004",
+        "unique_cookies":"2414"
+    },
+    {
+        "report":"Entertainment",
+        "name":"Musical Instruments",
+        "id":"140004",
+        "unique_cookies":"383"
+    },
+    {
+        "report":"Entertainment",
+        "name":"EDM Music Fans",
+        "id":"140004",
+        "unique_cookies":"763"
+    },
+    {
+        "report":"Entertainment",
+        "name":"Hip Hop Music Fans",
+        "id":"140004",
+        "unique_cookies":"7606"
+    },
+    {
+        "report":"Entertainment",
+        "name":"Pop Music Fans",
+        "id":"140004",
+        "unique_cookies":"582"
+    },
+    {
+        "report":"Entertainment",
+        "name":"Rock Music Fans",
+        "id":"140004",
+        "unique_cookies":"742"
+    },
+    {
+        "report":"Hobbies & Interest",
+        "name":"Pets",
+        "id":"140004",
+        "unique_cookies":"160"
+    },
+    {
+        "report":"Hobbies & Interest",
+        "name":"Fish & Aquariums",
+        "id":"140004",
+        "unique_cookies":"600"
+    },
+
+    {
+        "report":"Style & Fashion",
+        "name":"Clothing",
+        "id":"140000",
+        "unique_cookies":"13753"
+    },
+    {
+        "report":"Style & Fashion",
+        "name":"Children's Wear",
+        "id":"140001",
+        "unique_cookies":"479"
+    },
+    {
+        "report":"Style & Fashion",
+        "name":"Men's Wear",
+        "id":"140002",
+        "unique_cookies":"6468"
+    },
+    {
+        "report":"Style & Fashion",
+        "name":"Women's Wear",
+        "id":"140003",
+        "unique_cookies":"54368"
+    },
+    {
+        "report":"Travel",
+        "name":"Camping",
+        "id":"140004",
+        "unique_cookies":"299"
+    },
+    {
+        "report":"Travel",
+        "name":"Car Rental",
+        "id":"140004",
+        "unique_cookies":"974"
+    },
+    {
+        "report":"Travel",
+        "name":"Cruises",
+        "id":"140004",
+        "unique_cookies":"1029"
+    },
+    {
+        "report":"Travel",
+        "name":"Flights",
+        "id":"140004",
+        "unique_cookies":"974"
+    },
+    {
+        "report":"Travel",
+        "name":"Hotels & Accommodations",
+        "id":"140004",
+        "unique_cookies":"299"
+    },
+    {
+        "report":"Travel",
+        "name":"Other Transportation",
+        "id":"140004",
+        "unique_cookies":"897"
+    },
+    {
+        "report":"Shopping Intent",
+        "name":"Etail",
+        "id":"140004",
+        "unique_cookies":"357"
+    },
+    {
+        "report":"Shopping Intent",
+        "name":"Value Shoppers",
+        "id":"140004",
+        "unique_cookies":"2891"
+    },
+    {
+        "report":"Shopping Intent",
+        "name":"Coupon Shoppers",
+        "id":"140004",
+        "unique_cookies":"5760"
+    },{
+        "report":"Shopping Intent",
+        "name":"Holiday and Special Event Shoppers",
+        "id":"140004",
+        "unique_cookies":"2891"
+    },
+    {
+        "report":"Shopping Intent",
+        "name":"Black Friday",
+        "id":"140004",
+        "unique_cookies":"5760"
+    },
+    {
+        "report":"Telecommunications",
+        "name":"Cell Phone Accessories",
+        "id":"140004",
+        "unique_cookies":"2414"
+    },
+    {
+        "report":"Telecommunications",
+        "name":"Blackberry",
+        "id":"140004",
+        "unique_cookies":"383"
+    },
+    {
+        "report":"Telecommunications",
+        "name":"Google Phone",
+        "id":"140004",
+        "unique_cookies":"763"
+    },
+    {
+        "report":"Telecommunications",
+        "name":"iPhone (Apple)",
+        "id":"140004",
+        "unique_cookies":"7606"
+    },
+    {
+        "report":"Telecommunications",
+        "name":"LG",
+        "id":"140004",
+        "unique_cookies":"582"
+    },
+    {
+        "report":"Telecommunications",
+        "name":"Nokia",
+        "id":"140004",
+        "unique_cookies":"742"
+    },
+    {
+        "report":"CPG",
+        "name":"Household & Kitchen Supplies",
+        "id":"140004",
+        "unique_cookies":"865"
+    },
+    {
+        "report":"CPG",
+        "name":"Personal Care Supplies",
+        "id":"140004",
+        "unique_cookies":"258"
+    },
+    {
+        "report":"CPG",
+        "name":"Beauty",
+        "id":"140004",
+        "unique_cookies":"158"
+    },
+    {
+        "report":"CPG",
+        "name":"Hair Care Products",
+        "id":"140004",
+        "unique_cookies":"789"
+    },
+    {
+        "report":"CPG",
+        "name":"Skin Care Products",
+        "id":"140004",
+        "unique_cookies":"1563"
+    },
+    {
+        "report":" Food & Beverages",
+        "name":"Health Food",
+        "id":"140004",
+        "unique_cookies":"1863"
+    },
+    {
+        "report":" Food & Beverages",
+        "name":"Gluten Free Food",
+        "id":"140004",
+        "unique_cookies":"123"
+    },
+    {
+        "report":" Food & Beverages",
+        "name":"Restaurants",
+        "id":"140004",
+        "unique_cookies":"753"
+    },
+    {
+        "report":" Food & Beverages",
+        "name":"Recipes",
+        "id":"140004",
+        "unique_cookies":"2653"
+    },
+    {
+        "report":" Food & Beverages",
+        "name":"Grocery Stores & Bakeries",
+        "id":"140004",
+        "unique_cookies":"850"
+    }   
+]

@@ -1,0 +1,6193 @@
+[
+    {
+      "id_segment": 130300,
+      "name": "Small Business",
+      "report": "Demographics",
+      "type": "Small Business"
+    },
+    {
+      "id_segment": 130900,
+      "name": "Women in Business",
+      "report": "Demographics",
+      "type": "Women in Business"
+    },
+    {
+      "id_segment": 131300,
+      "name": "Business Decision Makers",
+      "report": "Demographics",
+      "type": "Business Decision Makers"
+    },
+    {
+      "id_segment": 131301,
+      "name": "Financial Business Decision Makers",
+      "report": "Demographics",
+      "type": "Business Decision Makers"
+    },
+    {
+      "id_segment": 131302,
+      "name": "IT Business Decision Makers",
+      "report": "Demographics",
+      "type": "Business Decision Makers"
+    },
+    {
+      "id_segment": 131303,
+      "name": "Senior Executive Decision Makers",
+      "report": "Demographics",
+      "type": "Business Decision Makers"
+    },
+    {
+      "id_segment": 131304,
+      "name": "Small Business Decision Makers",
+      "report": "Demographics",
+      "type": "Business Decision Makers"
+    },
+    {
+      "id_segment": 131305,
+      "name": "Administrative Decision Makers",
+      "report": "Demographics",
+      "type": "Business Decision Makers"
+    },
+    {
+      "id_segment": 131306,
+      "name": "Sales and Marketing Decision Makers",
+      "report": "Demographics",
+      "type": "Business Decision Makers"
+    },
+    {
+      "id_segment": 133001,
+      "name": "Education Professionals (Teachers, Principals, etc.)",
+      "report": "Demographics",
+      "type": "Industry Professionals"
+    },
+    {
+      "id_segment": 133002,
+      "name": "Food &amp; Beverage Industry Professionals",
+      "report": "Demographics",
+      "type": "Industry Professionals"
+    },
+    {
+      "id_segment": 133003,
+      "name": "Travel Industry Professionals",
+      "report": "Demographics",
+      "type": "Industry Professionals"
+    },
+    {
+      "id_segment": 133004,
+      "name": "Agriculture Industry Professionals",
+      "report": "Demographics",
+      "type": "Industry Professionals"
+    },
+    {
+      "id_segment": 133005,
+      "name": "Business Services Professionals",
+      "report": "Demographics",
+      "type": "Industry Professionals"
+    },
+    {
+      "id_segment": 133006,
+      "name": "Construction Industry Professionals",
+      "report": "Demographics",
+      "type": "Industry Professionals"
+    },
+    {
+      "id_segment": 133007,
+      "name": "Healthcare Industry Professionals",
+      "report": "Demographics",
+      "type": "Industry Professionals"
+    },
+    {
+      "id_segment": 133008,
+      "name": "Media Industry Professionals",
+      "report": "Demographics",
+      "type": "Industry Professionals"
+    },
+    {
+      "id_segment": 133009,
+      "name": "Telecommunication Industry Professionals",
+      "report": "Demographics",
+      "type": "Industry Professionals"
+    },
+    {
+      "id_segment": 133010,
+      "name": "Financial Services Industry Professionals",
+      "report": "Demographics",
+      "type": "Industry Professionals"
+    },
+    {
+      "id_segment": 133011,
+      "name": "Legal Services Industry Professionals",
+      "report": "Demographics",
+      "type": "Industry Professionals"
+    },
+    {
+      "id_segment": 140400,
+      "name": "C-level Executives",
+      "report": "Demographics",
+      "type": "Career Level"
+    },
+    {
+      "id_segment": 140500,
+      "name": "Mid-level Positions",
+      "report": "Demographics",
+      "type": "Career Level"
+    },
+    {
+      "id_segment": 140600,
+      "name": "Entry-level Positions",
+      "report": "Demographics",
+      "type": "Career Level"
+    },
+    {
+      "id_segment": 310500,
+      "name": "Liberal",
+      "report": "Demographics",
+      "type": "Political View"
+    },
+    {
+      "id_segment": 310501,
+      "name": "Registered Democrat",
+      "report": "Demographics",
+      "type": "Political View"
+    },
+    {
+      "id_segment": 310600,
+      "name": "Conservative",
+      "report": "Demographics",
+      "type": "Political View"
+    },
+    {
+      "id_segment": 310601,
+      "name": "Registered Republican",
+      "report": "Demographics",
+      "type": "Political View"
+    },
+    {
+      "id_segment": 320300,
+      "name": "Phone Carriers",
+      "report": "Demographics",
+      "type": "Phone Carriers & ISPs"
+    },
+    {
+      "id_segment": 320301,
+      "name": "Alltel",
+      "report": "Demographics",
+      "type": "Phone Carriers & ISPs"
+    },
+    {
+      "id_segment": 320302,
+      "name": "Cingular/AT&amp;T",
+      "report": "Demographics",
+      "type": "Phone Carriers & ISPs"
+    },
+    {
+      "id_segment": 320303,
+      "name": "Sprint &amp; Nextel",
+      "report": "Demographics",
+      "type": "Phone Carriers & ISPs"
+    },
+    {
+      "id_segment": 320304,
+      "name": "T mobile",
+      "report": "Demographics",
+      "type": "Phone Carriers & ISPs"
+    },
+    {
+      "id_segment": 320305,
+      "name": "U.S. Cellular",
+      "report": "Demographics",
+      "type": "Phone Carriers & ISPs"
+    },
+    {
+      "id_segment": 320306,
+      "name": "Verizon",
+      "report": "Demographics",
+      "type": "Phone Carriers & ISPs"
+    },
+    {
+      "id_segment": 320400,
+      "name": "Mobile Devices Applications",
+      "report": "Demographics",
+      "type": "Mobile Apps"
+    },
+    {
+      "id_segment": 320500,
+      "name": "Mobile Application Users",
+      "report": "Demographics",
+      "type": "Mobile Apps"
+    },
+    {
+      "id_segment": 320501,
+      "name": "Trendy Application Users",
+      "report": "Demographics",
+      "type": "Mobile Apps"
+    },
+    {
+      "id_segment": 320550,
+      "name": "Social Media Applications",
+      "report": "Demographics",
+      "type": "Mobile Apps"
+    },
+    {
+      "id_segment": 320551,
+      "name": "Facebook",
+      "report": "Demographics",
+      "type": "Mobile Apps"
+    },
+    {
+      "id_segment": 320552,
+      "name": "Pinterest",
+      "report": "Demographics",
+      "type": "Mobile Apps"
+    },
+    {
+      "id_segment": 320553,
+      "name": "Twitter",
+      "report": "Demographics",
+      "type": "Mobile Apps"
+    },
+    {
+      "id_segment": 320554,
+      "name": "Instagram",
+      "report": "Demographics",
+      "type": "Mobile Apps"
+    },
+    {
+      "id_segment": 320600,
+      "name": "Internet Service Providers",
+      "report": "Demographics",
+      "type": "Phone Carriers & ISPs"
+    },
+    {
+      "id_segment": 320601,
+      "name": "Comcast ISP users",
+      "report": "Demographics",
+      "type": "Phone Carriers & ISPs"
+    },
+    {
+      "id_segment": 320602,
+      "name": "Time Warner ISP users",
+      "report": "Demographics",
+      "type": "Phone Carriers & ISPs"
+    },
+    {
+      "id_segment": 320603,
+      "name": "Verizon ISP users",
+      "report": "Demographics",
+      "type": "Phone Carriers & ISPs"
+    },
+    {
+      "id_segment": 350200,
+      "name": "Current Mobile Device Users",
+      "report": "Demographics",
+      "type": "Tech Specs"
+    },
+    {
+      "id_segment": 350201,
+      "name": "Apple mobile devices users",
+      "report": "Demographics",
+      "type": "Tech Specs"
+    },
+    {
+      "id_segment": 350202,
+      "name": "BlackBerry mobile devices users",
+      "report": "Demographics",
+      "type": "Tech Specs"
+    },
+    {
+      "id_segment": 350203,
+      "name": "Google mobile devices users",
+      "report": "Demographics",
+      "type": "Tech Specs"
+    },
+    {
+      "id_segment": 350204,
+      "name": "HTC mobile devices users",
+      "report": "Demographics",
+      "type": "Tech Specs"
+    },
+    {
+      "id_segment": 350205,
+      "name": "LG mobile devices users",
+      "report": "Demographics",
+      "type": "Tech Specs"
+    },
+    {
+      "id_segment": 350207,
+      "name": "Motorola mobile devices users",
+      "report": "Demographics",
+      "type": "Tech Specs"
+    },
+    {
+      "id_segment": 350208,
+      "name": "Nokia mobile devices users",
+      "report": "Demographics",
+      "type": "Tech Specs"
+    },
+    {
+      "id_segment": 350209,
+      "name": "Samsung mobile devices users",
+      "report": "Demographics",
+      "type": "Tech Specs"
+    },
+    {
+      "id_segment": 350210,
+      "name": "Sony Ericsson mobile devices users",
+      "report": "Demographics",
+      "type": "Tech Specs"
+    },
+    {
+      "id_segment": 350211,
+      "name": "Android Mobile Devices Users",
+      "report": "Demographics",
+      "type": "Tech Specs"
+    },
+    {
+      "id_segment": 350221,
+      "name": "Android Tablet Users",
+      "report": "Demographics",
+      "type": "Tech Specs"
+    },
+    {
+      "id_segment": 350241,
+      "name": "Iphone users",
+      "report": "Demographics",
+      "type": "Tech Specs"
+    },
+    {
+      "id_segment": 350242,
+      "name": "Ipad users",
+      "report": "Demographics",
+      "type": "Tech Specs"
+    },
+    {
+      "id_segment": 350243,
+      "name": "Ipod users",
+      "report": "Demographics",
+      "type": "Tech Specs"
+    },
+    {
+      "id_segment": 350300,
+      "name": "Browser users",
+      "report": "Demographics",
+      "type": "Tech Specs"
+    },
+    {
+      "id_segment": 350304,
+      "name": "Opera users",
+      "report": "Demographics",
+      "type": "Tech Specs"
+    },
+    {
+      "id_segment": 350305,
+      "name": "Safari users",
+      "report": "Demographics",
+      "type": "Tech Specs"
+    },
+    {
+      "id_segment": 350400,
+      "name": "Operating System users",
+      "report": "Demographics",
+      "type": "Tech Specs"
+    },
+    {
+      "id_segment": 350401,
+      "name": "Linux users",
+      "report": "Demographics",
+      "type": "Tech Specs"
+    },
+    {
+      "id_segment": 350403,
+      "name": "Mac OS users",
+      "report": "Demographics",
+      "type": "Tech Specs"
+    },
+    {
+      "id_segment": 390100,
+      "name": "Affluent Household",
+      "report": "Demographics",
+      "type": "Shopping Behavior"
+    },
+    {
+      "id_segment": 390200,
+      "name": "Heavy Shoppers",
+      "report": "Demographics",
+      "type": "Shopping Behavior"
+    },
+    {
+      "id_segment": 390201,
+      "name": "Frequent Buyers",
+      "report": "Demographics",
+      "type": "Shopping Behavior"
+    },
+    {
+      "id_segment": 390202,
+      "name": "Large Order Value Buyers",
+      "report": "Demographics",
+      "type": "Shopping Behavior"
+    },
+    {
+      "id_segment": 390300,
+      "name": "Head of Household",
+      "report": "Demographics",
+      "type": "Shopping Behavior"
+    },
+    {
+      "id_segment": 390400,
+      "name": "Repeat Internet Buyers",
+      "report": "Demographics",
+      "type": "Shopping Behavior"
+    },
+    {
+      "id_segment": 390500,
+      "name": "Shopper Moms",
+      "report": "Demographics",
+      "type": "Mothers Lifestyle"
+    },
+    {
+      "id_segment": 400101,
+      "name": "Male",
+      "report": "Demographics",
+      "type": "Gender"
+    },
+    {
+      "id_segment": 400102,
+      "name": "Female",
+      "report": "Demographics",
+      "type": "Gender"
+    },
+    {
+      "id_segment": 400201,
+      "name": "18-25",
+      "report": "Demographics",
+      "type": "Age"
+    },
+    {
+      "id_segment": 400202,
+      "name": "26-35",
+      "report": "Demographics",
+      "type": "Age"
+    },
+    {
+      "id_segment": 400203,
+      "name": "36-45",
+      "report": "Demographics",
+      "type": "Age"
+    },
+    {
+      "id_segment": 400204,
+      "name": "46-55",
+      "report": "Demographics",
+      "type": "Age"
+    },
+    {
+      "id_segment": 400205,
+      "name": "56-65",
+      "report": "Demographics",
+      "type": "Age"
+    },
+    {
+      "id_segment": 400206,
+      "name": "66-75",
+      "report": "Demographics",
+      "type": "Age"
+    },
+    {
+      "id_segment": 400207,
+      "name": "76+",
+      "report": "Demographics",
+      "type": "Age"
+    },
+    {
+      "id_segment": 400301,
+      "name": "Non High School Graduate",
+      "report": "Demographics",
+      "type": "Education Level"
+    },
+    {
+      "id_segment": 400302,
+      "name": "High School Diploma",
+      "report": "Demographics",
+      "type": "Education Level"
+    },
+    {
+      "id_segment": 400303,
+      "name": "Incomplete College Degree",
+      "report": "Demographics",
+      "type": "Education Level"
+    },
+    {
+      "id_segment": 400304,
+      "name": "Associate Degree",
+      "report": "Demographics",
+      "type": "Education Level"
+    },
+    {
+      "id_segment": 400305,
+      "name": "College Degree",
+      "report": "Demographics",
+      "type": "Education Level"
+    },
+    {
+      "id_segment": 400306,
+      "name": "Advanced Degree",
+      "report": "Demographics",
+      "type": "Education Level"
+    },
+    {
+      "id_segment": 400401,
+      "name": "Under $25,000",
+      "report": "Demographics",
+      "type": "Household Income"
+    },
+    {
+      "id_segment": 400402,
+      "name": "$26,000-$50,000",
+      "report": "Demographics",
+      "type": "Household Income"
+    },
+    {
+      "id_segment": 400403,
+      "name": "$50,001-$75,000",
+      "report": "Demographics",
+      "type": "Household Income"
+    },
+    {
+      "id_segment": 400404,
+      "name": "$75,001-$100,000",
+      "report": "Demographics",
+      "type": "Household Income"
+    },
+    {
+      "id_segment": 400405,
+      "name": "$100,001-$150,000",
+      "report": "Demographics",
+      "type": "Household Income"
+    },
+    {
+      "id_segment": 400406,
+      "name": "$150,001-$200,000",
+      "report": "Demographics",
+      "type": "Household Income"
+    },
+    {
+      "id_segment": 400407,
+      "name": "$200,001+",
+      "report": "Demographics",
+      "type": "Household Income"
+    },
+    {
+      "id_segment": 400501,
+      "name": "Homeowners",
+      "report": "Demographics",
+      "type": "Property Ownership"
+    },
+    {
+      "id_segment": 400502,
+      "name": "Boat Owners",
+      "report": "Demographics",
+      "type": "Property Ownership"
+    },
+    {
+      "id_segment": 400503,
+      "name": "Aircraft Owners",
+      "report": "Demographics",
+      "type": "Property Ownership"
+    },
+    {
+      "id_segment": 400601,
+      "name": "Married",
+      "report": "Demographics",
+      "type": "Marital Status"
+    },
+    {
+      "id_segment": 400602,
+      "name": "Single",
+      "report": "Demographics",
+      "type": "Marital Status"
+    },
+    {
+      "id_segment": 710100,
+      "name": "Family Office Owners",
+      "report": "Demographics",
+      "type": "Occupation"
+    },
+    {
+      "id_segment": 710200,
+      "name": "Union Members",
+      "report": "Demographics",
+      "type": "Occupation"
+    },
+    {
+      "id_segment": 710301,
+      "name": "Management, Business and Financial Operations",
+      "report": "Demographics",
+      "type": "Occupation"
+    },
+    {
+      "id_segment": 710302,
+      "name": "HiTech: Computers, Math and Architect, Engineering",
+      "report": "Demographics",
+      "type": "Occupation"
+    },
+    {
+      "id_segment": 710303,
+      "name": "Legal, Education and Health Practitioners",
+      "report": "Demographics",
+      "type": "Occupation"
+    },
+    {
+      "id_segment": 710304,
+      "name": "Sales",
+      "report": "Demographics",
+      "type": "Occupation"
+    },
+    {
+      "id_segment": 710305,
+      "name": "Office and Administrative Support",
+      "report": "Demographics",
+      "type": "Occupation"
+    },
+    {
+      "id_segment": 710306,
+      "name": "Blue Collar",
+      "report": "Demographics",
+      "type": "Occupation"
+    },
+    {
+      "id_segment": 710307,
+      "name": "Farming, Fish and Forestry",
+      "report": "Demographics",
+      "type": "Occupation"
+    },
+    {
+      "id_segment": 710308,
+      "name": "Retired",
+      "report": "Demographics",
+      "type": "Occupation"
+    },
+    {
+      "id_segment": 720100,
+      "name": "Digital Moms",
+      "report": "Demographics",
+      "type": "Family Structure"
+    },
+    {
+      "id_segment": 720200,
+      "name": "Digital Dads",
+      "report": "Demographics",
+      "type": "Family Structure"
+    },
+    {
+      "id_segment": 720300,
+      "name": "Working Couples",
+      "report": "Demographics",
+      "type": "Family Structure"
+    },
+    {
+      "id_segment": 720410,
+      "name": "Family with children",
+      "report": "Demographics",
+      "type": "Family Structure"
+    },
+    {
+      "id_segment": 720411,
+      "name": "Family with 0-3 years infants",
+      "report": "Demographics",
+      "type": "Family Structure"
+    },
+    {
+      "id_segment": 720412,
+      "name": "Family with 4-6 years kids",
+      "report": "Demographics",
+      "type": "Family Structure"
+    },
+    {
+      "id_segment": 720413,
+      "name": "Family with 7-9 years kids",
+      "report": "Demographics",
+      "type": "Family Structure"
+    },
+    {
+      "id_segment": 720414,
+      "name": "Family with 10-12 years children",
+      "report": "Demographics",
+      "type": "Family Structure"
+    },
+    {
+      "id_segment": 720415,
+      "name": "Family with 13-15 years teens",
+      "report": "Demographics",
+      "type": "Family Structure"
+    },
+    {
+      "id_segment": 720416,
+      "name": "Family with 16-18 years teens",
+      "report": "Demographics",
+      "type": "Family Structure"
+    },
+    {
+      "id_segment": 720420,
+      "name": "Family without children",
+      "report": "Demographics",
+      "type": "Family Structure"
+    },
+    {
+      "id_segment": 720501,
+      "name": "Married Mothers",
+      "report": "Demographics",
+      "type": "Mothers Lifestyle"
+    },
+    {
+      "id_segment": 720502,
+      "name": "Single Mothers",
+      "report": "Demographics",
+      "type": "Mothers Lifestyle"
+    },
+    {
+      "id_segment": 720503,
+      "name": "Mothers with only one child",
+      "report": "Demographics",
+      "type": "Mothers Lifestyle"
+    },
+    {
+      "id_segment": 720504,
+      "name": "Mothers with 2 or more children",
+      "report": "Demographics",
+      "type": "Mothers Lifestyle"
+    },
+    {
+      "id_segment": 720505,
+      "name": "Baby Boomer Mothers",
+      "report": "Demographics",
+      "type": "Mothers Lifestyle"
+    },
+    {
+      "id_segment": 720506,
+      "name": "Gen X Mothers",
+      "report": "Demographics",
+      "type": "Mothers Lifestyle"
+    },
+    {
+      "id_segment": 720507,
+      "name": "Gen Y Mothers",
+      "report": "Demographics",
+      "type": "Mothers Lifestyle"
+    },
+    {
+      "id_segment": 720508,
+      "name": "Working Mothers",
+      "report": "Demographics",
+      "type": "Mothers Lifestyle"
+    },
+    {
+      "id_segment": 720509,
+      "name": "Stay at Home Mothers",
+      "report": "Demographics",
+      "type": "Mothers Lifestyle"
+    },
+    {
+      "id_segment": 720510,
+      "name": "Mothers to Infants",
+      "report": "Demographics",
+      "type": "Mothers Lifestyle"
+    },
+    {
+      "id_segment": 720511,
+      "name": "Mothers to Toddlers",
+      "report": "Demographics",
+      "type": "Mothers Lifestyle"
+    },
+    {
+      "id_segment": 720512,
+      "name": "Mothers to Tweeners",
+      "report": "Demographics",
+      "type": "Mothers Lifestyle"
+    },
+    {
+      "id_segment": 720513,
+      "name": "Mothers to Teenagers",
+      "report": "Demographics",
+      "type": "Mothers Lifestyle"
+    },
+    {
+      "id_segment": 720514,
+      "name": "Mothers to Highschoolers",
+      "report": "Demographics",
+      "type": "Mothers Lifestyle"
+    },
+    {
+      "id_segment": 720515,
+      "name": "Crafty Mothers",
+      "report": "Demographics",
+      "type": "Mothers Lifestyle"
+    },
+    {
+      "id_segment": 720516,
+      "name": "Fitness Mothers",
+      "report": "Demographics",
+      "type": "Mothers Lifestyle"
+    },
+    {
+      "id_segment": 720517,
+      "name": "Gardening Mothers",
+      "report": "Demographics",
+      "type": "Mothers Lifestyle"
+    },
+    {
+      "id_segment": 720518,
+      "name": "Couponing Mothers",
+      "report": "Demographics",
+      "type": "Mothers Lifestyle"
+    },
+    {
+      "id_segment": 750100,
+      "name": "New Homeowners",
+      "report": "Demographics",
+      "type": "Life Events"
+    },
+    {
+      "id_segment": 750101,
+      "name": "New Homeowners - Last 6 Months",
+      "report": "Demographics",
+      "type": "Life Events"
+    },
+    {
+      "id_segment": 750102,
+      "name": "New Homeowners - Last 12 Months",
+      "report": "Demographics",
+      "type": "Life Events"
+    },
+    {
+      "id_segment": 750200,
+      "name": "Movers",
+      "report": "Demographics",
+      "type": "Life Events"
+    },
+    {
+      "id_segment": 750201,
+      "name": "Movers - Last 6 Months",
+      "report": "Demographics",
+      "type": "Life Events"
+    },
+    {
+      "id_segment": 750202,
+      "name": "Movers - Last 12 Months",
+      "report": "Demographics",
+      "type": "Life Events"
+    },
+    {
+      "id_segment": 750300,
+      "name": "New Parents",
+      "report": "Demographics",
+      "type": "Life Events"
+    },
+    {
+      "id_segment": 750400,
+      "name": "Recently Married",
+      "report": "Demographics",
+      "type": "Life Events"
+    },
+    {
+      "id_segment": 750401,
+      "name": "Married in Last 3 Months",
+      "report": "Demographics",
+      "type": "Life Events"
+    },
+    {
+      "id_segment": 750402,
+      "name": "Married in Last 6 Months",
+      "report": "Demographics",
+      "type": "Life Events"
+    },
+    {
+      "id_segment": 750403,
+      "name": "Married in Last 12 Months",
+      "report": "Demographics",
+      "type": "Life Events"
+    },
+    {
+      "id_segment": 750500,
+      "name": "Recently Single",
+      "report": "Demographics",
+      "type": "Life Events"
+    },
+    {
+      "id_segment": 750501,
+      "name": "Turned Single in Last 3 Months",
+      "report": "Demographics",
+      "type": "Life Events"
+    },
+    {
+      "id_segment": 750502,
+      "name": "Turned Single in Last 6 Months",
+      "report": "Demographics",
+      "type": "Life Events"
+    },
+    {
+      "id_segment": 750503,
+      "name": "Turned Single in Last 12 Months",
+      "report": "Demographics",
+      "type": "Life Events"
+    },
+    {
+      "id_segment": 780101,
+      "name": "Single family dwelling unit",
+      "report": "Demographics",
+      "type": "Housing"
+    },
+    {
+      "id_segment": 780102,
+      "name": "Multi-family dwelling unit with an apartment",
+      "report": "Demographics",
+      "type": "Housing"
+    },
+    {
+      "id_segment": 780103,
+      "name": "Multi-family dwelling unit without an apartment",
+      "report": "Demographics",
+      "type": "Housing"
+    },
+    {
+      "id_segment": 780104,
+      "name": "P.O. Box users",
+      "report": "Demographics",
+      "type": "Housing"
+    },
+    {
+      "id_segment": 780201,
+      "name": "Dwelling with 1 Unit",
+      "report": "Demographics",
+      "type": "Housing"
+    },
+    {
+      "id_segment": 780202,
+      "name": "Dwelling with 2 Units",
+      "report": "Demographics",
+      "type": "Housing"
+    },
+    {
+      "id_segment": 780203,
+      "name": "Dwelling with 3 Units",
+      "report": "Demographics",
+      "type": "Housing"
+    },
+    {
+      "id_segment": 780204,
+      "name": "Dwelling with 4 Units",
+      "report": "Demographics",
+      "type": "Housing"
+    },
+    {
+      "id_segment": 780205,
+      "name": "Dwelling with 5-9 Units",
+      "report": "Demographics",
+      "type": "Housing"
+    },
+    {
+      "id_segment": 780206,
+      "name": "Dwelling with 10-19 Units",
+      "report": "Demographics",
+      "type": "Housing"
+    },
+    {
+      "id_segment": 780207,
+      "name": "Dwelling with 20-49 Units",
+      "report": "Demographics",
+      "type": "Housing"
+    },
+    {
+      "id_segment": 780208,
+      "name": "Dwelling with 50-100 Units",
+      "report": "Demographics",
+      "type": "Housing"
+    },
+    {
+      "id_segment": 780209,
+      "name": "Dwelling with 101+ Units",
+      "report": "Demographics",
+      "type": "Housing"
+    },
+    {
+      "id_segment": 780302,
+      "name": "House Value of $10,000-$24,999",
+      "report": "Demographics",
+      "type": "Housing"
+    },
+    {
+      "id_segment": 780303,
+      "name": "House Value of $25,000-$39,999",
+      "report": "Demographics",
+      "type": "Housing"
+    },
+    {
+      "id_segment": 780304,
+      "name": "House Value of $40,000-$59,999",
+      "report": "Demographics",
+      "type": "Housing"
+    },
+    {
+      "id_segment": 780305,
+      "name": "House Value of $60,000-$79,999",
+      "report": "Demographics",
+      "type": "Housing"
+    },
+    {
+      "id_segment": 780306,
+      "name": "House Value of $80,000-$99,999",
+      "report": "Demographics",
+      "type": "Housing"
+    },
+    {
+      "id_segment": 780307,
+      "name": "House Value of $100,000-$119,999",
+      "report": "Demographics",
+      "type": "Housing"
+    },
+    {
+      "id_segment": 780308,
+      "name": "House Value of $120,000-$139,999",
+      "report": "Demographics",
+      "type": "Housing"
+    },
+    {
+      "id_segment": 780309,
+      "name": "House Value of $140,000-$159,999",
+      "report": "Demographics",
+      "type": "Housing"
+    },
+    {
+      "id_segment": 780310,
+      "name": "House Value of $160,000-$199,999",
+      "report": "Demographics",
+      "type": "Housing"
+    },
+    {
+      "id_segment": 780311,
+      "name": "House Value of $200,000-$249,999",
+      "report": "Demographics",
+      "type": "Housing"
+    },
+    {
+      "id_segment": 780312,
+      "name": "House Value of $250,000-$349,999",
+      "report": "Demographics",
+      "type": "Housing"
+    },
+    {
+      "id_segment": 780313,
+      "name": "House Value of $350,000-$449,999",
+      "report": "Demographics",
+      "type": "Housing"
+    },
+    {
+      "id_segment": 780314,
+      "name": "House Value of $450,000-$749,999",
+      "report": "Demographics",
+      "type": "Housing"
+    },
+    {
+      "id_segment": 780315,
+      "name": "House Value of $750,000-$999,999",
+      "report": "Demographics",
+      "type": "Housing"
+    },
+    {
+      "id_segment": 780316,
+      "name": "House Value of $1,000,000+",
+      "report": "Demographics",
+      "type": "Housing"
+    },
+    {
+      "id_segment": 780401,
+      "name": "Up to 1 year of Residence",
+      "report": "Demographics",
+      "type": "Housing"
+    },
+    {
+      "id_segment": 780402,
+      "name": "Between 2-4 years of Residence",
+      "report": "Demographics",
+      "type": "Housing"
+    },
+    {
+      "id_segment": 780403,
+      "name": "Between 5-9 years of Residence",
+      "report": "Demographics",
+      "type": "Housing"
+    },
+    {
+      "id_segment": 780404,
+      "name": "Between 10-14 years of Residence",
+      "report": "Demographics",
+      "type": "Housing"
+    },
+    {
+      "id_segment": 780405,
+      "name": "Between 15-19 years of Residence",
+      "report": "Demographics",
+      "type": "Housing"
+    },
+    {
+      "id_segment": 780406,
+      "name": "Between 20-24 years of Residence",
+      "report": "Demographics",
+      "type": "Housing"
+    },
+    {
+      "id_segment": 780407,
+      "name": "Between 25-29 years of Residence",
+      "report": "Demographics",
+      "type": "Housing"
+    },
+    {
+      "id_segment": 780408,
+      "name": "Between 30-34 years of Residence",
+      "report": "Demographics",
+      "type": "Housing"
+    },
+    {
+      "id_segment": 780409,
+      "name": "Over 35 years of Residence",
+      "report": "Demographics",
+      "type": "Housing"
+    },
+    {
+      "id_segment": 780501,
+      "name": "First Time Home Purchaser",
+      "report": "Demographics",
+      "type": "Housing"
+    },
+    {
+      "id_segment": 780502,
+      "name": "Home Equity of $1,000-$9,999",
+      "report": "Demographics",
+      "type": "Housing"
+    },
+    {
+      "id_segment": 780503,
+      "name": "Home Equity of $10,000-$24,999",
+      "report": "Demographics",
+      "type": "Housing"
+    },
+    {
+      "id_segment": 780504,
+      "name": "Home Equity of $25,000-$39,999",
+      "report": "Demographics",
+      "type": "Housing"
+    },
+    {
+      "id_segment": 780505,
+      "name": "Home Equity of $40,000-$59,999",
+      "report": "Demographics",
+      "type": "Housing"
+    },
+    {
+      "id_segment": 780506,
+      "name": "Home Equity of $60,000-$79,999",
+      "report": "Demographics",
+      "type": "Housing"
+    },
+    {
+      "id_segment": 780507,
+      "name": "Home Equity of $80,000-$99,999",
+      "report": "Demographics",
+      "type": "Housing"
+    },
+    {
+      "id_segment": 780508,
+      "name": "Home Equity of $100,000-$119,999",
+      "report": "Demographics",
+      "type": "Housing"
+    },
+    {
+      "id_segment": 780509,
+      "name": "Home Equity of $120,000-$139,999",
+      "report": "Demographics",
+      "type": "Housing"
+    },
+    {
+      "id_segment": 780510,
+      "name": "Home Equity of $140,000-$159,999",
+      "report": "Demographics",
+      "type": "Housing"
+    },
+    {
+      "id_segment": 780511,
+      "name": "Home Equity of $250,000+",
+      "report": "Demographics",
+      "type": "Housing"
+    },
+    {
+      "id_segment": 780512,
+      "name": "Home Equity of $160,000-$199,999",
+      "report": "Demographics",
+      "type": "Housing"
+    },
+    {
+      "id_segment": 780513,
+      "name": "Home Equity of $200,000-$249,999",
+      "report": "Demographics",
+      "type": "Housing"
+    },
+    {
+      "id_segment": 120000,
+      "name": "Automotive",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 120100,
+      "name": "Auto Parts, Accessories & Services",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 120200,
+      "name": "Other vehicles",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 120205,
+      "name": "Motorcycles",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 121000,
+      "name": "Coupe / Sport / Convertible",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 121100,
+      "name": "Hybrid/Green",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 121200,
+      "name": "Luxury",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 121300,
+      "name": "Pickup & Trucks",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 121400,
+      "name": "Passenger Cars (Sedan, Wagon, Hatchback, Compact)",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 121500,
+      "name": "SUV / Minivan / Van / Crossover",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 122000,
+      "name": "New Vehicle Seekers",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 122100,
+      "name": "Used Vehicle Seekers",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 123100,
+      "name": "Acura",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 123101,
+      "name": "Acura TL",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 123200,
+      "name": "Astonmartin",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 123300,
+      "name": "Audi",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 123301,
+      "name": "Audi A4",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 123302,
+      "name": "Audi S4",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 123400,
+      "name": "Bentley",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 123500,
+      "name": "BMW",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 123501,
+      "name": "BMW M3",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 123600,
+      "name": "Buick",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 123601,
+      "name": "Buick Regal",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 123700,
+      "name": "Cadillac",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 123701,
+      "name": "Cadillac CTS",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 123702,
+      "name": "Cadillac Escalade",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 123800,
+      "name": "Chevrolet",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 123801,
+      "name": "Chevrolet Aveo",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 123802,
+      "name": "Chevrolet Camaro",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 123803,
+      "name": "Chevrolet Cobalt",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 123804,
+      "name": "Chevrolet Corvette",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 123805,
+      "name": "Chevrolet Equinox",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 123806,
+      "name": "Chevrolet Impala",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 123807,
+      "name": "Chevrolet Malibu",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 123808,
+      "name": "Chevrolet Suburban",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 123809,
+      "name": "Chevrolet Tahoe",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 123900,
+      "name": "Chrysler",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 123901,
+      "name": "Chrysler 300",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 123902,
+      "name": "Chrysler Town & Country",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 124000,
+      "name": "Dodge",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 124001,
+      "name": "Dodge Avenger",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 124002,
+      "name": "Dodge Caliber",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 124003,
+      "name": "Dodge Challenger",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 124004,
+      "name": "Dodge Charger",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 124005,
+      "name": "Dodge Grand Caravan",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 124006,
+      "name": "Dodge Viper",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 124100,
+      "name": "Ferrari",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 124200,
+      "name": "Ford",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 124201,
+      "name": "Ford Edge",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 124202,
+      "name": "Ford Escape",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 124203,
+      "name": "Ford Expedition",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 124204,
+      "name": "Ford Explorer",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 124205,
+      "name": "Ford Fiesta",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 124206,
+      "name": "Ford Flex",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 124207,
+      "name": "Ford Focus",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 124208,
+      "name": "Ford Fusion",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 124209,
+      "name": "Ford Mustang",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 124210,
+      "name": "Ford Taurus",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 124300,
+      "name": "Freightliner",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 124400,
+      "name": "GMC",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 124500,
+      "name": "Honda",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 124501,
+      "name": "Honda CR-V",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 124502,
+      "name": "Honda Odyssey",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 124503,
+      "name": "Honda Pilot",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 124600,
+      "name": "Hummer",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 124700,
+      "name": "Hyundai",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 124701,
+      "name": "Hyundai Elantra",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 124702,
+      "name": "Hyundai Genesis",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 124703,
+      "name": "Hyundai Santa Fe",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 124704,
+      "name": "Hyundai Sonata",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 124800,
+      "name": "Infiniti",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 124900,
+      "name": "Jaguar",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 125000,
+      "name": "Jeep",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 125001,
+      "name": "Jeep Grand Cherokee",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 125002,
+      "name": "Jeep Liberty",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 125003,
+      "name": "Jeep Wrangler",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 125100,
+      "name": "Kia",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 125200,
+      "name": "Lamborghini",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 125300,
+      "name": "Landrover",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 125400,
+      "name": "Lexus",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 125401,
+      "name": "Lexus IS",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 125500,
+      "name": "Lincoln",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 125501,
+      "name": "Lincoln Town Car",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 125600,
+      "name": "Lotus",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 125700,
+      "name": "Maserati",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 125800,
+      "name": "Maybach",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 125900,
+      "name": "Mazda",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 126000,
+      "name": "Mercedes-benz",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 126001,
+      "name": "Mercedes-benz S-Class",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 126100,
+      "name": "Mercury",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 126101,
+      "name": "Mercury Grand Marquis",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 126200,
+      "name": "Mini",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 126300,
+      "name": "Mitsubishi",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 126301,
+      "name": "Mitsubishi Eclipse",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 126302,
+      "name": "Mitsubishi Lancer",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 126400,
+      "name": "Nissan",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 126401,
+      "name": "Nissan Maxima",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 126402,
+      "name": "Nissan Murano",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 126403,
+      "name": "Nissan Pathfinder",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 126404,
+      "name": "Nissan Quest",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 126405,
+      "name": "Nissan Sentra",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 126406,
+      "name": "Nissan Xterra",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 126500,
+      "name": "Pontiac",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 126600,
+      "name": "Porsche",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 126700,
+      "name": "Rolls-royce",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 126800,
+      "name": "Saab",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 126900,
+      "name": "Scion",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 126901,
+      "name": "Scion tC",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 127000,
+      "name": "Smart",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 127100,
+      "name": "Subaru",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 127101,
+      "name": "Subaru Forester",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 127102,
+      "name": "Subaru Impreza",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 127103,
+      "name": "Subaru Outback",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 127200,
+      "name": "Suzuki",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 127300,
+      "name": "Tesla",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 127400,
+      "name": "Toyota",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 127401,
+      "name": "Toyota 4Runner",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 127402,
+      "name": "Toyota Avalon",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 127403,
+      "name": "Toyota Camry",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 127404,
+      "name": "Toyota Corolla",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 127405,
+      "name": "Toyota FJ Cruiser",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 127406,
+      "name": "Toyota Highlander",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 127407,
+      "name": "Toyota Land Cruiser",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 127408,
+      "name": "Toyota Prius",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 127409,
+      "name": "Toyota RAV4",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 127410,
+      "name": "Toyota Sienna",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 127500,
+      "name": "Volkswagen",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 127501,
+      "name": "Volkswagen Golf",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 127600,
+      "name": "Volvo",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 127700,
+      "name": "Fiat",
+      "report": "aditionalinterest",
+      "type": "Automotive"
+    },
+    {
+      "id_segment": 131000,
+      "name": "Office and business electronics",
+      "report": "aditionalinterest",
+      "type": "Home Electronics"
+    },
+    {
+      "id_segment": 131001,
+      "name": "Copiers, Fax Machines & Scanners",
+      "report": "aditionalinterest",
+      "type": "Home Electronics"
+    },
+    {
+      "id_segment": 131002,
+      "name": "Printers",
+      "report": "aditionalinterest",
+      "type": "Home Electronics"
+    },
+    {
+      "id_segment": 131003,
+      "name": "Office Supplies",
+      "report": "aditionalinterest",
+      "type": "Home Electronics"
+    },
+    {
+      "id_segment": 150000,
+      "name": "Datonics: Education",
+      "report": "aditionalinterest",
+      "type": "Education"
+    },
+    {
+      "id_segment": 150100,
+      "name": "College & Admissions",
+      "report": "aditionalinterest",
+      "type": "Education"
+    },
+    {
+      "id_segment": 150400,
+      "name": "Financial Aid & Scholarship",
+      "report": "aditionalinterest",
+      "type": "Education"
+    },
+    {
+      "id_segment": 150800,
+      "name": "Online Courses",
+      "report": "aditionalinterest",
+      "type": "Education"
+    },
+    {
+      "id_segment": 151100,
+      "name": "Preschool",
+      "report": "aditionalinterest",
+      "type": "Education"
+    },
+    {
+      "id_segment": 151200,
+      "name": "Elementary & Middle School",
+      "report": "aditionalinterest",
+      "type": "Education"
+    },
+    {
+      "id_segment": 151300,
+      "name": "High School",
+      "report": "aditionalinterest",
+      "type": "Education"
+    },
+    {
+      "id_segment": 151400,
+      "name": "Back to School",
+      "report": "aditionalinterest",
+      "type": "Education"
+    },
+    {
+      "id_segment": 151500,
+      "name": "Homeschooling",
+      "report": "aditionalinterest",
+      "type": "Education"
+    },
+    {
+      "id_segment": 160000,
+      "name": "Datonics: Electronics",
+      "report": "aditionalinterest",
+      "type": "Electronics"
+    },
+    {
+      "id_segment": 160100,
+      "name": "Cameras",
+      "report": "aditionalinterest",
+      "type": "Electronics"
+    },
+    {
+      "id_segment": 160200,
+      "name": "Computers",
+      "report": "aditionalinterest",
+      "type": "Electronics"
+    },
+    {
+      "id_segment": 160202,
+      "name": "Desktops",
+      "report": "aditionalinterest",
+      "type": "Electronics"
+    },
+    {
+      "id_segment": 160203,
+      "name": "Laptops",
+      "report": "aditionalinterest",
+      "type": "Electronics"
+    },
+    {
+      "id_segment": 160205,
+      "name": "Tablets",
+      "report": "aditionalinterest",
+      "type": "Electronics"
+    },
+    {
+      "id_segment": 160206,
+      "name": "Netbooks",
+      "report": "aditionalinterest",
+      "type": "Electronics"
+    },
+    {
+      "id_segment": 160240,
+      "name": "Apple Computers",
+      "report": "aditionalinterest",
+      "type": "Electronics"
+    },
+    {
+      "id_segment": 160241,
+      "name": "Apple Desktop",
+      "report": "aditionalinterest",
+      "type": "Electronics"
+    },
+    {
+      "id_segment": 160242,
+      "name": "Apple Laptops",
+      "report": "aditionalinterest",
+      "type": "Electronics"
+    },
+    {
+      "id_segment": 160300,
+      "name": "Gaming & Video Games",
+      "report": "aditionalinterest",
+      "type": "Gaming & Video Games"
+    },
+    {
+      "id_segment": 160301,
+      "name": "Computer Games",
+      "report": "aditionalinterest",
+      "type": "Gaming & Video Games"
+    },
+    {
+      "id_segment": 160303,
+      "name": "GameCube",
+      "report": "aditionalinterest",
+      "type": "Gaming & Video Games"
+    },
+    {
+      "id_segment": 160305,
+      "name": "Nintendo",
+      "report": "aditionalinterest",
+      "type": "Gaming & Video Games"
+    },
+    {
+      "id_segment": 160306,
+      "name": "Online Games",
+      "report": "aditionalinterest",
+      "type": "Gaming & Video Games"
+    },
+    {
+      "id_segment": 160307,
+      "name": "Playstation",
+      "report": "aditionalinterest",
+      "type": "Gaming & Video Games"
+    },
+    {
+      "id_segment": 160308,
+      "name": "PSP",
+      "report": "aditionalinterest",
+      "type": "Gaming & Video Games"
+    },
+    {
+      "id_segment": 160310,
+      "name": "Xbox",
+      "report": "aditionalinterest",
+      "type": "Gaming & Video Games"
+    },
+    {
+      "id_segment": 160311,
+      "name": "Wii",
+      "report": "aditionalinterest",
+      "type": "Gaming & Video Games"
+    },
+    {
+      "id_segment": 160315,
+      "name": "Hardcore Gamers",
+      "report": "aditionalinterest",
+      "type": "Gaming & Video Games"
+    },
+    {
+      "id_segment": 160316,
+      "name": "Mobile Devices Games",
+      "report": "aditionalinterest",
+      "type": "Gaming & Video Games"
+    },
+    {
+      "id_segment": 160401,
+      "name": "GPS",
+      "report": "aditionalinterest",
+      "type": "Electronics"
+    },
+    {
+      "id_segment": 160502,
+      "name": "Dishwashers",
+      "report": "aditionalinterest",
+      "type": "Home Electronics"
+    },
+    {
+      "id_segment": 160503,
+      "name": "Home Cinema",
+      "report": "aditionalinterest",
+      "type": "Home Electronics"
+    },
+    {
+      "id_segment": 160504,
+      "name": "Refrigerator",
+      "report": "aditionalinterest",
+      "type": "Home Electronics"
+    },
+    {
+      "id_segment": 160505,
+      "name": "Audio",
+      "report": "aditionalinterest",
+      "type": "Home Electronics"
+    },
+    {
+      "id_segment": 160506,
+      "name": "TVs and HDTVs",
+      "report": "aditionalinterest",
+      "type": "Home Electronics"
+    },
+    {
+      "id_segment": 160507,
+      "name": "DVD & Blu Ray Players",
+      "report": "aditionalinterest",
+      "type": "Home Electronics"
+    },
+    {
+      "id_segment": 160508,
+      "name": "Washing Machines & Dryers",
+      "report": "aditionalinterest",
+      "type": "Home Electronics"
+    },
+    {
+      "id_segment": 160509,
+      "name": "Women Electronics",
+      "report": "aditionalinterest",
+      "type": "Home Electronics"
+    },
+    {
+      "id_segment": 160510,
+      "name": "Coffee Machines",
+      "report": "aditionalinterest",
+      "type": "Home Electronics"
+    },
+    {
+      "id_segment": 160511,
+      "name": "Vacuum Cleaners",
+      "report": "aditionalinterest",
+      "type": "Home Electronics"
+    },
+    {
+      "id_segment": 160512,
+      "name": "Heating, Ventilation and Air Conditioning (HVAC)",
+      "report": "aditionalinterest",
+      "type": "Home Electronics"
+    },
+    {
+      "id_segment": 170500,
+      "name": "Insurance",
+      "report": "aditionalinterest",
+      "type": "Finance & Money"
+    },
+    {
+      "id_segment": 170501,
+      "name": "Car & Motorcycle Insurance",
+      "report": "aditionalinterest",
+      "type": "Finance & Money"
+    },
+    {
+      "id_segment": 170502,
+      "name": "Home Insurance",
+      "report": "aditionalinterest",
+      "type": "Finance & Money"
+    },
+    {
+      "id_segment": 170503,
+      "name": "Life Insurance",
+      "report": "aditionalinterest",
+      "type": "Finance & Money"
+    },
+    {
+      "id_segment": 170504,
+      "name": "Health Insurance",
+      "report": "aditionalinterest",
+      "type": "Finance & Money"
+    },
+    {
+      "id_segment": 171000,
+      "name": "Credit Cards",
+      "report": "aditionalinterest",
+      "type": "Finance & Money"
+    },
+    {
+      "id_segment": 171001,
+      "name": "Prepaid Credit Cards",
+      "report": "aditionalinterest",
+      "type": "Finance & Money"
+    },
+    {
+      "id_segment": 171002,
+      "name": "Premium Credit Card",
+      "report": "aditionalinterest",
+      "type": "Finance & Money"
+    },
+    {
+      "id_segment": 171003,
+      "name": "Amex Credit Card",
+      "report": "aditionalinterest",
+      "type": "Finance & Money"
+    },
+    {
+      "id_segment": 171004,
+      "name": "Discover Credit Card",
+      "report": "aditionalinterest",
+      "type": "Finance & Money"
+    },
+    {
+      "id_segment": 171005,
+      "name": "Visa Credit Card",
+      "report": "aditionalinterest",
+      "type": "Finance & Money"
+    },
+    {
+      "id_segment": 171006,
+      "name": "Mastercard Credit Card",
+      "report": "aditionalinterest",
+      "type": "Finance & Money"
+    },
+    {
+      "id_segment": 171007,
+      "name": "Bankcard Credit Card",
+      "report": "aditionalinterest",
+      "type": "Finance & Money"
+    },
+    {
+      "id_segment": 171100,
+      "name": "Trade",
+      "report": "aditionalinterest",
+      "type": "Finance & Money"
+    },
+    {
+      "id_segment": 171101,
+      "name": "Investments, Stocks, Bonds & Funds",
+      "report": "aditionalinterest",
+      "type": "Finance & Money"
+    },
+    {
+      "id_segment": 171102,
+      "name": "Forex",
+      "report": "aditionalinterest",
+      "type": "Finance & Money"
+    },
+    {
+      "id_segment": 171103,
+      "name": "Online Currency / BitCoin",
+      "report": "aditionalinterest",
+      "type": "Finance & Money"
+    },
+    {
+      "id_segment": 171200,
+      "name": "Loans",
+      "report": "aditionalinterest",
+      "type": "Finance & Money"
+    },
+    {
+      "id_segment": 171201,
+      "name": "Mortgage Loan",
+      "report": "aditionalinterest",
+      "type": "Finance & Money"
+    },
+    {
+      "id_segment": 171202,
+      "name": "Equity Loan",
+      "report": "aditionalinterest",
+      "type": "Finance & Money"
+    },
+    {
+      "id_segment": 171203,
+      "name": "Refinance Loan",
+      "report": "aditionalinterest",
+      "type": "Finance & Money"
+    },
+    {
+      "id_segment": 171204,
+      "name": "Auto Loan",
+      "report": "aditionalinterest",
+      "type": "Finance & Money"
+    },
+    {
+      "id_segment": 171205,
+      "name": "Personal Loan",
+      "report": "aditionalinterest",
+      "type": "Finance & Money"
+    },
+    {
+      "id_segment": 171206,
+      "name": "Student Loans",
+      "report": "aditionalinterest",
+      "type": "Finance & Money"
+    },
+    {
+      "id_segment": 171208,
+      "name": "Business Loans",
+      "report": "aditionalinterest",
+      "type": "Finance & Money"
+    },
+    {
+      "id_segment": 171300,
+      "name": "Financial Services",
+      "report": "aditionalinterest",
+      "type": "Finance & Money"
+    },
+    {
+      "id_segment": 171301,
+      "name": "Banks & Bank Services",
+      "report": "aditionalinterest",
+      "type": "Finance & Money"
+    },
+    {
+      "id_segment": 171302,
+      "name": "Credit",
+      "report": "aditionalinterest",
+      "type": "Finance & Money"
+    },
+    {
+      "id_segment": 171303,
+      "name": "Savings",
+      "report": "aditionalinterest",
+      "type": "Finance & Money"
+    },
+    {
+      "id_segment": 171304,
+      "name": "Retirement / 401K",
+      "report": "aditionalinterest",
+      "type": "Finance & Money"
+    },
+    {
+      "id_segment": 171400,
+      "name": "Tax",
+      "report": "aditionalinterest",
+      "type": "Finance & Money"
+    },
+    {
+      "id_segment": 171500,
+      "name": "eCommerce Services",
+      "report": "aditionalinterest",
+      "type": "Finance & Money"
+    },
+    {
+      "id_segment": 171501,
+      "name": "PayPal",
+      "report": "aditionalinterest",
+      "type": "Finance & Money"
+    },
+    {
+      "id_segment": 180100,
+      "name": "Baby Care",
+      "report": "aditionalinterest",
+      "type": "Family"
+    },
+    {
+      "id_segment": 180300,
+      "name": "Dating & Relationships",
+      "report": "aditionalinterest",
+      "type": "Family"
+    },
+    {
+      "id_segment": 180500,
+      "name": "Family Toys & Games",
+      "report": "aditionalinterest",
+      "type": "Family"
+    },
+    {
+      "id_segment": 180800,
+      "name": "Seniors",
+      "report": "aditionalinterest",
+      "type": "Family"
+    },
+    {
+      "id_segment": 181100,
+      "name": "Wedding",
+      "report": "aditionalinterest",
+      "type": "Family"
+    },
+    {
+      "id_segment": 181200,
+      "name": "Parties & Celebrations",
+      "report": "aditionalinterest",
+      "type": "Family"
+    },
+    {
+      "id_segment": 181300,
+      "name": "Parents",
+      "report": "aditionalinterest",
+      "type": "Family"
+    },
+    {
+      "id_segment": 181301,
+      "name": "Parents to toddlers",
+      "report": "aditionalinterest",
+      "type": "Family"
+    },
+    {
+      "id_segment": 181302,
+      "name": "Parents to teens",
+      "report": "aditionalinterest",
+      "type": "Family"
+    },
+    {
+      "id_segment": 181303,
+      "name": "Parents to college students",
+      "report": "aditionalinterest",
+      "type": "Family"
+    },
+    {
+      "id_segment": 181304,
+      "name": "Parents to babies",
+      "report": "aditionalinterest",
+      "type": "Family"
+    },
+    {
+      "id_segment": 181305,
+      "name": "Parents to gradeschoolers",
+      "report": "aditionalinterest",
+      "type": "Family"
+    },
+    {
+      "id_segment": 181500,
+      "name": "Moms",
+      "report": "aditionalinterest",
+      "type": "Family"
+    },
+    {
+      "id_segment": 181700,
+      "name": "Dads",
+      "report": "aditionalinterest",
+      "type": "Family"
+    },
+    {
+      "id_segment": 181800,
+      "name": "Grandparents",
+      "report": "aditionalinterest",
+      "type": "Family"
+    },
+    {
+      "id_segment": 200000,
+      "name": "Hobbies & Interest",
+      "report": "aditionalinterest",
+      "type": "Hobbies & Interest"
+    },
+    {
+      "id_segment": 200100,
+      "name": "Books & Magazines",
+      "report": "aditionalinterest",
+      "type": "Hobbies & Interest"
+    },
+    {
+      "id_segment": 200200,
+      "name": "Events & Tickets",
+      "report": "aditionalinterest",
+      "type": "Hobbies & Interest"
+    },
+    {
+      "id_segment": 200700,
+      "name": "Pets",
+      "report": "aditionalinterest",
+      "type": "Hobbies & Interest"
+    },
+    {
+      "id_segment": 200701,
+      "name": "Fish & Aquariums",
+      "report": "aditionalinterest",
+      "type": "Hobbies & Interest"
+    },
+    {
+      "id_segment": 200702,
+      "name": "Birds",
+      "report": "aditionalinterest",
+      "type": "Hobbies & Interest"
+    },
+    {
+      "id_segment": 200703,
+      "name": "Cats",
+      "report": "aditionalinterest",
+      "type": "Hobbies & Interest"
+    },
+    {
+      "id_segment": 200704,
+      "name": "Dogs",
+      "report": "aditionalinterest",
+      "type": "Hobbies & Interest"
+    },
+    {
+      "id_segment": 201000,
+      "name": "Photography",
+      "report": "aditionalinterest",
+      "type": "Hobbies & Interest"
+    },
+    {
+      "id_segment": 201100,
+      "name": "Arts & DIY Crafts",
+      "report": "aditionalinterest",
+      "type": "Hobbies & Interest"
+    },
+    {
+      "id_segment": 210200,
+      "name": "Furnishing, Houseware & Decorations",
+      "report": "aditionalinterest",
+      "type": "Home  & Garden"
+    },
+    {
+      "id_segment": 210300,
+      "name": "Home Improvement & Construction",
+      "report": "aditionalinterest",
+      "type": "Home  & Garden"
+    },
+    {
+      "id_segment": 210500,
+      "name": "Garden",
+      "report": "aditionalinterest",
+      "type": "Home  & Garden"
+    },
+    {
+      "id_segment": 210700,
+      "name": "Do It Yourself",
+      "report": "aditionalinterest",
+      "type": "Home  & Garden"
+    },
+    {
+      "id_segment": 210800,
+      "name": "Interior Design Enthusiasts",
+      "report": "aditionalinterest",
+      "type": "Home  & Garden"
+    },
+    {
+      "id_segment": 250000,
+      "name": "Real Estate",
+      "report": "aditionalinterest",
+      "type": "Real Estate"
+    },
+    {
+      "id_segment": 251000,
+      "name": "Moving & Relocation",
+      "report": "aditionalinterest",
+      "type": "Real Estate"
+    },
+    {
+      "id_segment": 251100,
+      "name": "Renters",
+      "report": "aditionalinterest",
+      "type": "Real Estate"
+    },
+    {
+      "id_segment": 261300,
+      "name": "Fitness & Exercise",
+      "report": "aditionalinterest",
+      "type": "Sports"
+    },
+    {
+      "id_segment": 261301,
+      "name": "Yoga / Pilates",
+      "report": "aditionalinterest",
+      "type": "Sports"
+    },
+    {
+      "id_segment": 261302,
+      "name": "Joggers / Runners",
+      "report": "aditionalinterest",
+      "type": "Sports"
+    },
+    {
+      "id_segment": 261303,
+      "name": "Gym Goers",
+      "report": "aditionalinterest",
+      "type": "Sports"
+    },
+    {
+      "id_segment": 261304,
+      "name": "Crossfit",
+      "report": "aditionalinterest",
+      "type": "Sports"
+    },
+    {
+      "id_segment": 261305,
+      "name": "Mixed Martial Arts",
+      "report": "aditionalinterest",
+      "type": "Sports"
+    },
+    {
+      "id_segment": 261350,
+      "name": "Sports Apparel & Active Wear",
+      "report": "aditionalinterest",
+      "type": "Sports"
+    },
+    {
+      "id_segment": 360201,
+      "name": "Sports Enthusiasts",
+      "report": "aditionalinterest",
+      "type": "Sports"
+    },
+    {
+      "id_segment": 360211,
+      "name": "Baseball Fans",
+      "report": "aditionalinterest",
+      "type": "Sports"
+    },
+    {
+      "id_segment": 360212,
+      "name": "Basketball Fans",
+      "report": "aditionalinterest",
+      "type": "Sports"
+    },
+    {
+      "id_segment": 360213,
+      "name": "Football Fans",
+      "report": "aditionalinterest",
+      "type": "Sports"
+    },
+    {
+      "id_segment": 360214,
+      "name": "Soccer Fans",
+      "report": "aditionalinterest",
+      "type": "Sports"
+    },
+    {
+      "id_segment": 360215,
+      "name": "Tennis Fans",
+      "report": "aditionalinterest",
+      "type": "Sports"
+    },
+    {
+      "id_segment": 360216,
+      "name": "Hockey Fans",
+      "report": "aditionalinterest",
+      "type": "Sports"
+    },
+    {
+      "id_segment": 360217,
+      "name": "Golf Fans",
+      "report": "aditionalinterest",
+      "type": "Sports"
+    },
+    {
+      "id_segment": 360218,
+      "name": "NASCAR Fans",
+      "report": "aditionalinterest",
+      "type": "Sports"
+    },
+    {
+      "id_segment": 360251,
+      "name": "Olympic Enthusiasts",
+      "report": "aditionalinterest",
+      "type": "Sports"
+    },
+    {
+      "id_segment": 360252,
+      "name": "Superbowl Enthusiasts",
+      "report": "aditionalinterest",
+      "type": "Sports"
+    },
+    {
+      "id_segment": 360253,
+      "name": "NCAA Enthusiasts",
+      "report": "aditionalinterest",
+      "type": "Sports"
+    },
+    {
+      "id_segment": 261400,
+      "name": "Amateur Sports",
+      "report": "aditionalinterest",
+      "type": "Sports"
+    },
+    {
+      "id_segment": 261401,
+      "name": "Plays Hockey",
+      "report": "aditionalinterest",
+      "type": "Sports"
+    },
+    {
+      "id_segment": 261402,
+      "name": "Plays Soccer",
+      "report": "aditionalinterest",
+      "type": "Sports"
+    },
+    {
+      "id_segment": 261403,
+      "name": "Plays Tennis",
+      "report": "aditionalinterest",
+      "type": "Sports"
+    },
+    {
+      "id_segment": 261404,
+      "name": "Plays Golf",
+      "report": "aditionalinterest",
+      "type": "Sports"
+    },
+    {
+      "id_segment": 270100,
+      "name": "Accessories",
+      "report": "aditionalinterest",
+      "type": "Style & Fashion"
+    },
+    {
+      "id_segment": 270300,
+      "name": "Clothing",
+      "report": "aditionalinterest",
+      "type": "Style & Fashion"
+    },
+    {
+      "id_segment": 270301,
+      "name": "Childrens Wear",
+      "report": "aditionalinterest",
+      "type": "Style & Fashion"
+    },
+    {
+      "id_segment": 270304,
+      "name": "Childrens Swimwear",
+      "report": "aditionalinterest",
+      "type": "Style & Fashion"
+    },
+    {
+      "id_segment": 270302,
+      "name": "Mens Wear",
+      "report": "aditionalinterest",
+      "type": "Style & Fashion"
+    },
+    {
+      "id_segment": 270305,
+      "name": "Mens Swimwear",
+      "report": "aditionalinterest",
+      "type": "Style & Fashion"
+    },
+    {
+      "id_segment": 270303,
+      "name": "Womens Wear",
+      "report": "aditionalinterest",
+      "type": "Style & Fashion"
+    },
+    {
+      "id_segment": 270306,
+      "name": "Womens Swimwear",
+      "report": "aditionalinterest",
+      "type": "Style & Fashion"
+    },
+    {
+      "id_segment": 270400,
+      "name": "Jewelry",
+      "report": "aditionalinterest",
+      "type": "Style & Fashion"
+    },
+    {
+      "id_segment": 270500,
+      "name": "Shoes and Footware",
+      "report": "aditionalinterest",
+      "type": "Style & Fashion"
+    },
+    {
+      "id_segment": 280200,
+      "name": "Camping",
+      "report": "aditionalinterest",
+      "type": "Travel"
+    },
+    {
+      "id_segment": 280300,
+      "name": "Car rental",
+      "report": "aditionalinterest",
+      "type": "Travel"
+    },
+    {
+      "id_segment": 280400,
+      "name": "Cruises",
+      "report": "aditionalinterest",
+      "type": "Travel"
+    },
+    {
+      "id_segment": 280500,
+      "name": "Flights",
+      "report": "aditionalinterest",
+      "type": "Travel"
+    },
+    {
+      "id_segment": 280600,
+      "name": "Hotels & Accommodations",
+      "report": "aditionalinterest",
+      "type": "Travel"
+    },
+    {
+      "id_segment": 280800,
+      "name": "Other Transportation",
+      "report": "aditionalinterest",
+      "type": "Travel"
+    },
+    {
+      "id_segment": 280900,
+      "name": "Spas",
+      "report": "aditionalinterest",
+      "type": "Travel"
+    },
+    {
+      "id_segment": 281100,
+      "name": "Family Vacations",
+      "report": "aditionalinterest",
+      "type": "Travel"
+    },
+    {
+      "id_segment": 281101,
+      "name": "Theme Parks",
+      "report": "aditionalinterest",
+      "type": "Travel"
+    },
+    {
+      "id_segment": 281200,
+      "name": "Budget Travelers",
+      "report": "aditionalinterest",
+      "type": "Travel"
+    },
+    {
+      "id_segment": 281300,
+      "name": "Ski Resorts",
+      "report": "aditionalinterest",
+      "type": "Travel"
+    },
+    {
+      "id_segment": 281400,
+      "name": "Business Travelers",
+      "report": "aditionalinterest",
+      "type": "Travel"
+    },
+    {
+      "id_segment": 281500,
+      "name": "Tourist Attractions Seekers",
+      "report": "aditionalinterest",
+      "type": "Travel"
+    },
+    {
+      "id_segment": 320100,
+      "name": "Cell Phone Accessories",
+      "report": "aditionalinterest",
+      "type": "Mobile Device"
+    },
+    {
+      "id_segment": 320200,
+      "name": "Mobile Device Interest",
+      "report": "aditionalinterest",
+      "type": "Mobile Device"
+    },
+    {
+      "id_segment": 320201,
+      "name": "Blackberry",
+      "report": "aditionalinterest",
+      "type": "Mobile Device"
+    },
+    {
+      "id_segment": 320202,
+      "name": "Google Phone",
+      "report": "aditionalinterest",
+      "type": "Mobile Device"
+    },
+    {
+      "id_segment": 320203,
+      "name": "iPhone (Apple)",
+      "report": "aditionalinterest",
+      "type": "Mobile Device"
+    },
+    {
+      "id_segment": 320204,
+      "name": "LG",
+      "report": "aditionalinterest",
+      "type": "Mobile Device"
+    },
+    {
+      "id_segment": 320205,
+      "name": "Microsoft HTC",
+      "report": "aditionalinterest",
+      "type": "Mobile Device"
+    },
+    {
+      "id_segment": 320206,
+      "name": "Motorola",
+      "report": "aditionalinterest",
+      "type": "Mobile Device"
+    },
+    {
+      "id_segment": 320207,
+      "name": "Nokia",
+      "report": "aditionalinterest",
+      "type": "Mobile Device"
+    },
+    {
+      "id_segment": 320208,
+      "name": "PDA",
+      "report": "aditionalinterest",
+      "type": "Mobile Device"
+    },
+    {
+      "id_segment": 320209,
+      "name": "Samsung",
+      "report": "aditionalinterest",
+      "type": "Mobile Device"
+    },
+    {
+      "id_segment": 320210,
+      "name": "Sony Ericsson",
+      "report": "aditionalinterest",
+      "type": "Mobile Device"
+    },
+    {
+      "id_segment": 330000,
+      "name": "Datonics: CPG",
+      "report": "aditionalinterest",
+      "type": "CPG"
+    },
+    {
+      "id_segment": 330100,
+      "name": "Household & Kitchen Supplies",
+      "report": "aditionalinterest",
+      "type": "CPG"
+    },
+    {
+      "id_segment": 330200,
+      "name": "Personal Care Supplies",
+      "report": "aditionalinterest",
+      "type": "CPG"
+    },
+    {
+      "id_segment": 270200,
+      "name": "Beauty",
+      "report": "aditionalinterest",
+      "type": "CPG"
+    },
+    {
+      "id_segment": 270201,
+      "name": "Hair Care Products",
+      "report": "aditionalinterest",
+      "type": "CPG"
+    },
+    {
+      "id_segment": 270203,
+      "name": "Skin Care Products",
+      "report": "aditionalinterest",
+      "type": "CPG"
+    },
+    {
+      "id_segment": 330201,
+      "name": "Cosmetics",
+      "report": "aditionalinterest",
+      "type": "CPG"
+    },
+    {
+      "id_segment": 330202,
+      "name": "Male Care Products",
+      "report": "aditionalinterest",
+      "type": "CPG"
+    },
+    {
+      "id_segment": 330203,
+      "name": "Female Care Products",
+      "report": "aditionalinterest",
+      "type": "CPG"
+    },
+    {
+      "id_segment": 330204,
+      "name": "Children Care Products",
+      "report": "aditionalinterest",
+      "type": "CPG"
+    },
+    {
+      "id_segment": 330205,
+      "name": "Eye Care Products",
+      "report": "aditionalinterest",
+      "type": "CPG"
+    },
+    {
+      "id_segment": 330400,
+      "name": "Oral Care Products",
+      "report": "aditionalinterest",
+      "type": "CPG"
+    },
+    {
+      "id_segment": 330300,
+      "name": "Flowers",
+      "report": "aditionalinterest",
+      "type": "CPG"
+    },
+    {
+      "id_segment": 330500,
+      "name": "Cleaning Supplies",
+      "report": "aditionalinterest",
+      "type": "CPG"
+    },
+    {
+      "id_segment": 330600,
+      "name": "Small Appliances",
+      "report": "aditionalinterest",
+      "type": "CPG"
+    },
+    {
+      "id_segment": 330700,
+      "name": "Baking and Cooking Accessories",
+      "report": "aditionalinterest",
+      "type": "CPG"
+    },
+    {
+      "id_segment": 340000,
+      "name": "Food & Beverages",
+      "report": "aditionalinterest",
+      "type": "Food & Beverages"
+    },
+    {
+      "id_segment": 330800,
+      "name": "Health Food",
+      "report": "aditionalinterest",
+      "type": "Food & Beverages"
+    },
+    {
+      "id_segment": 330801,
+      "name": "Gluten Free Food",
+      "report": "aditionalinterest",
+      "type": "Food & Beverages"
+    },
+    {
+      "id_segment": 340100,
+      "name": "Restaurants",
+      "report": "aditionalinterest",
+      "type": "Food & Beverages"
+    },
+    {
+      "id_segment": 340200,
+      "name": "Recipes",
+      "report": "aditionalinterest",
+      "type": "Food & Beverages"
+    },
+    {
+      "id_segment": 340300,
+      "name": "Grocery Stores & Bakeries",
+      "report": "aditionalinterest",
+      "type": "Food & Beverages"
+    },
+    {
+      "id_segment": 340400,
+      "name": "Vegetarians",
+      "report": "aditionalinterest",
+      "type": "Food & Beverages"
+    },
+    {
+      "id_segment": 340500,
+      "name": "Foodies",
+      "report": "aditionalinterest",
+      "type": "Food & Beverages"
+    },
+    {
+      "id_segment": 340600,
+      "name": "Frozen Dinner Eaters",
+      "report": "aditionalinterest",
+      "type": "Food & Beverages"
+    },
+    {
+      "id_segment": 340700,
+      "name": "Fast Food Enthusiasts",
+      "report": "aditionalinterest",
+      "type": "Food & Beverages"
+    },
+    {
+      "id_segment": 340800,
+      "name": "Online Food Delivery",
+      "report": "aditionalinterest",
+      "type": "Food & Beverages"
+    },
+    {
+      "id_segment": 340900,
+      "name": "Cereals",
+      "report": "aditionalinterest",
+      "type": "Food & Beverages"
+    },
+    {
+      "id_segment": 341000,
+      "name": "Snacks",
+      "report": "aditionalinterest",
+      "type": "Food & Beverages"
+    },
+    {
+      "id_segment": 341100,
+      "name": "Drinks",
+      "report": "aditionalinterest",
+      "type": "Food & Beverages"
+    },
+    {
+      "id_segment": 341101,
+      "name": "Carbonated Drinks",
+      "report": "aditionalinterest",
+      "type": "Food & Beverages"
+    },
+    {
+      "id_segment": 341102,
+      "name": "Non Carbonated Drinks",
+      "report": "aditionalinterest",
+      "type": "Food & Beverages"
+    },
+    {
+      "id_segment": 341103,
+      "name": "Coffee and Tea",
+      "report": "aditionalinterest",
+      "type": "Food & Beverages"
+    },
+    {
+      "id_segment": 341300,
+      "name": "Baby Food",
+      "report": "aditionalinterest",
+      "type": "Food & Beverages"
+    },
+    {
+      "id_segment": 341400,
+      "name": "Canned Food",
+      "report": "aditionalinterest",
+      "type": "Food & Beverages"
+    },
+    {
+      "id_segment": 341500,
+      "name": "Alcohol",
+      "report": "aditionalinterest",
+      "type": "Food & Beverages"
+    },
+    {
+      "id_segment": 341501,
+      "name": "Wine and Winery",
+      "report": "aditionalinterest",
+      "type": "Food & Beverages"
+    },
+    {
+      "id_segment": 350000,
+      "name": "Tech Enthusiasts",
+      "report": "aditionalinterest",
+      "type": "Tech Enthusiasts"
+    },
+    {
+      "id_segment": 350500,
+      "name": "Apple Enthusiasts",
+      "report": "aditionalinterest",
+      "type": "Tech Enthusiasts"
+    },
+    {
+      "id_segment": 350600,
+      "name": "Android Enthusiasts",
+      "report": "aditionalinterest",
+      "type": "Tech Enthusiasts"
+    },
+    {
+      "id_segment": 181600,
+      "name": "Affluent",
+      "report": "aditionalinterest",
+      "type": "Lifestyle"
+    },
+    {
+      "id_segment": 360200,
+      "name": "Healthy Living",
+      "report": "aditionalinterest",
+      "type": "Lifestyle"
+    },
+    {
+      "id_segment": 341200,
+      "name": "Protein Powder/Supplements",
+      "report": "aditionalinterest",
+      "type": "Lifestyle"
+    },
+    {
+      "id_segment": 360202,
+      "name": "Extreme Activities",
+      "report": "aditionalinterest",
+      "type": "Lifestyle"
+    },
+    {
+      "id_segment": 360203,
+      "name": "New Age Enthusiasts",
+      "report": "aditionalinterest",
+      "type": "Lifestyle"
+    },
+    {
+      "id_segment": 360230,
+      "name": "Vitamin Consumers",
+      "report": "aditionalinterest",
+      "type": "Lifestyle"
+    },
+    {
+      "id_segment": 360300,
+      "name": "News Consumers",
+      "report": "aditionalinterest",
+      "type": "Lifestyle"
+    },
+    {
+      "id_segment": 360301,
+      "name": "Finance News Consumers",
+      "report": "aditionalinterest",
+      "type": "Lifestyle"
+    },
+    {
+      "id_segment": 360302,
+      "name": "Political News Consumers",
+      "report": "aditionalinterest",
+      "type": "Lifestyle"
+    },
+    {
+      "id_segment": 360400,
+      "name": "Outdoor Enthusiasts",
+      "report": "aditionalinterest",
+      "type": "Lifestyle"
+    },
+    {
+      "id_segment": 360500,
+      "name": "Environment Conscious",
+      "report": "aditionalinterest",
+      "type": "Lifestyle"
+    },
+    {
+      "id_segment": 360600,
+      "name": "Women Lifestyle",
+      "report": "aditionalinterest",
+      "type": "Lifestyle"
+    },
+    {
+      "id_segment": 360700,
+      "name": "Men Lifestyle",
+      "report": "aditionalinterest",
+      "type": "Lifestyle"
+    },
+    {
+      "id_segment": 360800,
+      "name": "College Students",
+      "report": "aditionalinterest",
+      "type": "Lifestyle"
+    },
+    {
+      "id_segment": 360900,
+      "name": "Gadget Geeks",
+      "report": "aditionalinterest",
+      "type": "Lifestyle"
+    },
+    {
+      "id_segment": 361000,
+      "name": "Baby Boomers",
+      "report": "aditionalinterest",
+      "type": "Lifestyle"
+    },
+    {
+      "id_segment": 360100,
+      "name": "Spanish-Speaking",
+      "report": "aditionalinterest",
+      "type": "Lifestyle"
+    },
+    {
+      "id_segment": 361100,
+      "name": "Chinese Speaking",
+      "report": "aditionalinterest",
+      "type": "Lifestyle"
+    },
+    {
+      "id_segment": 361200,
+      "name": "Japanese Speaking",
+      "report": "aditionalinterest",
+      "type": "Lifestyle"
+    },
+    {
+      "id_segment": 361300,
+      "name": "Urban Males",
+      "report": "aditionalinterest",
+      "type": "Lifestyle"
+    },
+    {
+      "id_segment": 361400,
+      "name": "Fashionistas",
+      "report": "aditionalinterest",
+      "type": "Lifestyle"
+    },
+    {
+      "id_segment": 361500,
+      "name": "Millennials",
+      "report": "aditionalinterest",
+      "type": "Lifestyle"
+    },
+    {
+      "id_segment": 361600,
+      "name": "Comic Con Fans",
+      "report": "aditionalinterest",
+      "type": "Lifestyle"
+    },
+    {
+      "id_segment": 361700,
+      "name": "Young Professionals",
+      "report": "aditionalinterest",
+      "type": "Lifestyle"
+    },
+    {
+      "id_segment": 361800,
+      "name": "Marine Enthusiasts",
+      "report": "aditionalinterest",
+      "type": "Lifestyle"
+    },
+    {
+      "id_segment": 361801,
+      "name": "Boating Enthusiasts",
+      "report": "aditionalinterest",
+      "type": "Lifestyle"
+    },
+    {
+      "id_segment": 361802,
+      "name": "Anglers",
+      "report": "aditionalinterest",
+      "type": "Lifestyle"
+    },
+    {
+      "id_segment": 370000,
+      "name": "Privacy Concious",
+      "report": "aditionalinterest",
+      "type": "Lifestyle"
+    },
+    {
+      "id_segment": 380000,
+      "name": "Entertainment",
+      "report": "aditionalinterest",
+      "type": "Lifestyle"
+    },
+    {
+      "id_segment": 200400,
+      "name": "Music Enthusiasts",
+      "report": "aditionalinterest",
+      "type": "Music Enthusiasts"
+    },
+    {
+      "id_segment": 200401,
+      "name": "Musical Instruments",
+      "report": "aditionalinterest",
+      "type": "Music Enthusiasts"
+    },
+    {
+      "id_segment": 200402,
+      "name": "Country Music fans",
+      "report": "aditionalinterest",
+      "type": "Music Enthusiasts"
+    },
+    {
+      "id_segment": 200403,
+      "name": "EDM Music fans",
+      "report": "aditionalinterest",
+      "type": "Music Enthusiasts"
+    },
+    {
+      "id_segment": 200404,
+      "name": "Hip Hop Music fans",
+      "report": "aditionalinterest",
+      "type": "Music Enthusiasts"
+    },
+    {
+      "id_segment": 200405,
+      "name": "Pop Music fans",
+      "report": "aditionalinterest",
+      "type": "Music Enthusiasts"
+    },
+    {
+      "id_segment": 200406,
+      "name": "Rock Music fans",
+      "report": "aditionalinterest",
+      "type": "Music Enthusiasts"
+    },
+    {
+      "id_segment": 200500,
+      "name": "TV Series Enthusiasts",
+      "report": "aditionalinterest",
+      "type": "TV Content"
+    },
+    {
+      "id_segment": 200501,
+      "name": "Reality Show fans",
+      "report": "aditionalinterest",
+      "type": "TV Content"
+    },
+    {
+      "id_segment": 380200,
+      "name": "Celebrity Gossip",
+      "report": "aditionalinterest",
+      "type": "TV Content"
+    },
+    {
+      "id_segment": 380300,
+      "name": "Online Streaming Content Consumers",
+      "report": "aditionalinterest",
+      "type": "TV Content"
+    },
+    {
+      "id_segment": 740400,
+      "name": "Health and Wellness Trends Enthusiasts",
+      "report": "aditionalinterest",
+      "type": "Lifestyle"
+    },
+    {
+      "id_segment": 740410,
+      "name": "Actively Try New Health and Diet Trends",
+      "report": "aditionalinterest",
+      "type": "Lifestyle"
+    },
+    {
+      "id_segment": 740411,
+      "name": "On a diet",
+      "report": "aditionalinterest",
+      "type": "Lifestyle"
+    },
+    {
+      "id_segment": 740500,
+      "name": "Couch Potatoes",
+      "report": "aditionalinterest",
+      "type": "TV Content"
+    },
+    {
+      "id_segment": 740501,
+      "name": "Game Show Watchers",
+      "report": "aditionalinterest",
+      "type": "TV Content"
+    },
+    {
+      "id_segment": 740502,
+      "name": "Comedy Television Watchers",
+      "report": "aditionalinterest",
+      "type": "TV Content"
+    },
+    {
+      "id_segment": 740503,
+      "name": "Reality TV Show Viewers",
+      "report": "aditionalinterest",
+      "type": "TV Content"
+    },
+    {
+      "id_segment": 740504,
+      "name": "TV Movie Fans",
+      "report": "aditionalinterest",
+      "type": "TV Content"
+    },
+    {
+      "id_segment": 740505,
+      "name": "TV History Show Fans",
+      "report": "aditionalinterest",
+      "type": "TV Content"
+    },
+    {
+      "id_segment": 740506,
+      "name": "TV Animation Show Fans",
+      "report": "aditionalinterest",
+      "type": "TV Content"
+    },
+    {
+      "id_segment": 740507,
+      "name": "Top Chef Viewers",
+      "report": "aditionalinterest",
+      "type": "TV Content"
+    },
+    {
+      "id_segment": 740508,
+      "name": "Drama Lovers",
+      "report": "aditionalinterest",
+      "type": "TV Content"
+    },
+    {
+      "id_segment": 740509,
+      "name": "Fanboy TV Shows",
+      "report": "aditionalinterest",
+      "type": "TV Content"
+    },
+    {
+      "id_segment": 740510,
+      "name": "Female Focus TV",
+      "report": "aditionalinterest",
+      "type": "TV Content"
+    },
+    {
+      "id_segment": 740511,
+      "name": "Grammys Watchers",
+      "report": "aditionalinterest",
+      "type": "TV Content"
+    },
+    {
+      "id_segment": 740512,
+      "name": "Guy Shows on TV",
+      "report": "aditionalinterest",
+      "type": "TV Content"
+    },
+    {
+      "id_segment": 740513,
+      "name": "HBO Watchers",
+      "report": "aditionalinterest",
+      "type": "TV Content"
+    },
+    {
+      "id_segment": 740514,
+      "name": "Oprah Fans",
+      "report": "aditionalinterest",
+      "type": "TV Content"
+    },
+    {
+      "id_segment": 740515,
+      "name": "TV News",
+      "report": "aditionalinterest",
+      "type": "TV Content"
+    },
+    {
+      "id_segment": 740516,
+      "name": "TV How-to shows",
+      "report": "aditionalinterest",
+      "type": "Movie Enthusiasts"
+    },
+    {
+      "id_segment": 740600,
+      "name": "Movie Enthusiasts",
+      "report": "aditionalinterest",
+      "type": "Movie Enthusiasts"
+    },
+    {
+      "id_segment": 740601,
+      "name": "Opening Weekend Movie Goers",
+      "report": "aditionalinterest",
+      "type": "Movie Enthusiasts"
+    },
+    {
+      "id_segment": 740602,
+      "name": "Thriller Movie Buffs",
+      "report": "aditionalinterest",
+      "type": "Movie Enthusiasts"
+    },
+    {
+      "id_segment": 740603,
+      "name": "Sci-Fi Movie Buff",
+      "report": "aditionalinterest",
+      "type": "Movie Enthusiasts"
+    },
+    {
+      "id_segment": 740604,
+      "name": "Action and Adventure Movie Lovers",
+      "report": "aditionalinterest",
+      "type": "Movie Enthusiasts"
+    },
+    {
+      "id_segment": 740605,
+      "name": "Horror Movie Buff",
+      "report": "aditionalinterest",
+      "type": "Movie Enthusiasts"
+    },
+    {
+      "id_segment": 740606,
+      "name": "Documentary and Foreign Language Movie Buff",
+      "report": "aditionalinterest",
+      "type": "Movie Enthusiasts"
+    },
+    {
+      "id_segment": 740607,
+      "name": "Drama Movie Buff",
+      "report": "aditionalinterest",
+      "type": "Movie Enthusiasts"
+    },
+    {
+      "id_segment": 740608,
+      "name": "Family Film Buff",
+      "report": "aditionalinterest",
+      "type": "Movie Enthusiasts"
+    },
+    {
+      "id_segment": 740609,
+      "name": "Frequent Movie Goers",
+      "report": "aditionalinterest",
+      "type": "Movie Enthusiasts"
+    },
+    {
+      "id_segment": 740610,
+      "name": "Comedy and Romantic Comedy Movie Lovers",
+      "report": "aditionalinterest",
+      "type": "Movie Enthusiasts"
+    },
+    {
+      "id_segment": 740801,
+      "name": "Family Centered",
+      "report": "aditionalinterest",
+      "type": "Social Perception"
+    },
+    {
+      "id_segment": 740802,
+      "name": "Work Centered",
+      "report": "aditionalinterest",
+      "type": "Social Perception"
+    },
+    {
+      "id_segment": 740803,
+      "name": "Socially Isolated",
+      "report": "aditionalinterest",
+      "type": "Social Perception"
+    },
+    {
+      "id_segment": 740901,
+      "name": "Technology Wizards",
+      "report": "aditionalinterest",
+      "type": "Technology Perception"
+    },
+    {
+      "id_segment": 740902,
+      "name": "Technology Journeymen",
+      "report": "aditionalinterest",
+      "type": "Technology Perception"
+    },
+    {
+      "id_segment": 740903,
+      "name": "Technology Apprentices",
+      "report": "aditionalinterest",
+      "type": "Technology Perception"
+    },
+    {
+      "id_segment": 740904,
+      "name": "Technology Novices",
+      "report": "aditionalinterest",
+      "type": "Technology Perception"
+    },{
+      "id_segment": 290000,
+      "name": "Green Products",
+      "report": "Shopping Preferences",
+      "type": "Green Awareness"
+    },
+    {
+      "id_segment": 300000,
+      "name": "Shopping Intent",
+      "report": "Shopping Preferences",
+      "type": "Shopping Behavior"
+    },
+    {
+      "id_segment": 300100,
+      "name": "Etail",
+      "report": "Shopping Preferences",
+      "type": "Shopping Behavior"
+    },
+    {
+      "id_segment": 300200,
+      "name": "Value Shoppers",
+      "report": "Shopping Preferences",
+      "type": "Shopping Behavior"
+    },
+    {
+      "id_segment": 300201,
+      "name": "Coupon Shoppers",
+      "report": "Shopping Preferences",
+      "type": "Shopping Behavior"
+    },
+    {
+      "id_segment": 300300,
+      "name": "Holiday and Special Event Shoppers",
+      "report": "Shopping Preferences",
+      "type": "Shopping Behavior"
+    },
+    {
+      "id_segment": 300301,
+      "name": "Halloween",
+      "report": "Shopping Preferences",
+      "type": "Shopping Behavior"
+    },
+    {
+      "id_segment": 300302,
+      "name": "Thanksgiving",
+      "report": "Shopping Preferences",
+      "type": "Shopping Behavior"
+    },
+    {
+      "id_segment": 300303,
+      "name": "Christmas",
+      "report": "Shopping Preferences",
+      "type": "Shopping Behavior"
+    },
+    {
+      "id_segment": 300304,
+      "name": "New Years",
+      "report": "Shopping Preferences",
+      "type": "Shopping Behavior"
+    },
+    {
+      "id_segment": 300305,
+      "name": "Cyber Week",
+      "report": "Shopping Preferences",
+      "type": "Shopping Behavior"
+    },
+    {
+      "id_segment": 300306,
+      "name": "Valentine's Day",
+      "report": "Shopping Preferences",
+      "type": "Shopping Behavior"
+    },
+    {
+      "id_segment": 300345,
+      "name": "Black Friday",
+      "report": "Shopping Preferences",
+      "type": "Shopping Behavior"
+    },
+    {
+      "id_segment": 300355,
+      "name": "Cyber Monday",
+      "report": "Shopping Preferences",
+      "type": "Shopping Behavior"
+    },
+    {
+      "id_segment": 390600,
+      "name": "Children Stores Shoppers",
+      "report": "Shopping Preferences",
+      "type": "Store Visitors"
+    },
+    {
+      "id_segment": 390601,
+      "name": "Babies R Us",
+      "report": "Shopping Preferences",
+      "type": "Store Visitors"
+    },
+    {
+      "id_segment": 390602,
+      "name": "Disney Store",
+      "report": "Shopping Preferences",
+      "type": "Store Visitors"
+    },
+    {
+      "id_segment": 390603,
+      "name": "Gap Kids",
+      "report": "Shopping Preferences",
+      "type": "Store Visitors"
+    },
+    {
+      "id_segment": 390604,
+      "name": "Toys R Us",
+      "report": "Shopping Preferences",
+      "type": "Store Visitors"
+    },
+    {
+      "id_segment": 410000,
+      "name": "Department Store Visitors",
+      "report": "Shopping Preferences",
+      "type": "Store Visitors"
+    },
+    {
+      "id_segment": 410001,
+      "name": "Dillards",
+      "report": "Shopping Preferences",
+      "type": "Store Visitors"
+    },
+    {
+      "id_segment": 410002,
+      "name": "Kohls",
+      "report": "Shopping Preferences",
+      "type": "Store Visitors"
+    },
+    {
+      "id_segment": 410003,
+      "name": "Macys",
+      "report": "Shopping Preferences",
+      "type": "Store Visitors"
+    },
+    {
+      "id_segment": 410004,
+      "name": "Nordstrom",
+      "report": "Shopping Preferences",
+      "type": "Store Visitors"
+    },
+    {
+      "id_segment": 410005,
+      "name": "Sears",
+      "report": "Shopping Preferences",
+      "type": "Store Visitors"
+    },
+    {
+      "id_segment": 410100,
+      "name": "Superstore Visitors",
+      "report": "Shopping Preferences",
+      "type": "Store Visitors"
+    },
+    {
+      "id_segment": 410101,
+      "name": "BigBox",
+      "report": "Shopping Preferences",
+      "type": "Store Visitors"
+    },
+    {
+      "id_segment": 410102,
+      "name": "Big Lots",
+      "report": "Shopping Preferences",
+      "type": "Store Visitors"
+    },
+    {
+      "id_segment": 410103,
+      "name": "BJs",
+      "report": "Shopping Preferences",
+      "type": "Store Visitors"
+    },
+    {
+      "id_segment": 410104,
+      "name": "Costco",
+      "report": "Shopping Preferences",
+      "type": "Store Visitors"
+    },
+    {
+      "id_segment": 410105,
+      "name": "Kmart",
+      "report": "Shopping Preferences",
+      "type": "Store Visitors"
+    },
+    {
+      "id_segment": 410106,
+      "name": "Sams Club",
+      "report": "Shopping Preferences",
+      "type": "Store Visitors"
+    },
+    {
+      "id_segment": 410107,
+      "name": "Target",
+      "report": "Shopping Preferences",
+      "type": "Store Visitors"
+    },
+    {
+      "id_segment": 410108,
+      "name": "Walmart",
+      "report": "Shopping Preferences",
+      "type": "Store Visitors"
+    },
+    {
+      "id_segment": 410200,
+      "name": "Convenience Store Visitors",
+      "report": "Shopping Preferences",
+      "type": "Store Visitors"
+    },
+    {
+      "id_segment": 410201,
+      "name": "7 Eleven",
+      "report": "Shopping Preferences",
+      "type": "Store Visitors"
+    },
+    {
+      "id_segment": 410202,
+      "name": "Caseys General Store",
+      "report": "Shopping Preferences",
+      "type": "Store Visitors"
+    },
+    {
+      "id_segment": 410203,
+      "name": "Cumberland Farms",
+      "report": "Shopping Preferences",
+      "type": "Store Visitors"
+    },
+    {
+      "id_segment": 410204,
+      "name": "Quick Check",
+      "report": "Shopping Preferences",
+      "type": "Store Visitors"
+    },
+    {
+      "id_segment": 410205,
+      "name": "Turkey Hill Store",
+      "report": "Shopping Preferences",
+      "type": "Store Visitors"
+    },
+    {
+      "id_segment": 410206,
+      "name": "Wawa",
+      "report": "Shopping Preferences",
+      "type": "Store Visitors"
+    },
+    {
+      "id_segment": 410207,
+      "name": "Kum &amp; Go",
+      "report": "Shopping Preferences",
+      "type": "Store Visitors"
+    },
+    {
+      "id_segment": 410300,
+      "name": "Discount Store Visitors",
+      "report": "Shopping Preferences",
+      "type": "Store Visitors"
+    },
+    {
+      "id_segment": 410301,
+      "name": "Dollar Tree",
+      "report": "Shopping Preferences",
+      "type": "Store Visitors"
+    },
+    {
+      "id_segment": 410302,
+      "name": "Family Dollar",
+      "report": "Shopping Preferences",
+      "type": "Store Visitors"
+    },
+    {
+      "id_segment": 410303,
+      "name": "Marshalls",
+      "report": "Shopping Preferences",
+      "type": "Store Visitors"
+    },
+    {
+      "id_segment": 410304,
+      "name": "Rite Aid",
+      "report": "Shopping Preferences",
+      "type": "Store Visitors"
+    },
+    {
+      "id_segment": 410305,
+      "name": "TJ Maxx",
+      "report": "Shopping Preferences",
+      "type": "Store Visitors"
+    },
+    {
+      "id_segment": 410306,
+      "name": "Burlington Coat Factory",
+      "report": "Shopping Preferences",
+      "type": "Store Visitors"
+    },
+    {
+      "id_segment": 410307,
+      "name": "DollarGeneral",
+      "report": "Shopping Preferences",
+      "type": "Store Visitors"
+    },
+    {
+      "id_segment": 410308,
+      "name": "Rack Room",
+      "report": "Shopping Preferences",
+      "type": "Store Visitors"
+    },
+    {
+      "id_segment": 410309,
+      "name": "Ross Department Store",
+      "report": "Shopping Preferences",
+      "type": "Store Visitors"
+    },
+    {
+      "id_segment": 410400,
+      "name": "Pharmacy Visitors",
+      "report": "Shopping Preferences",
+      "type": "Store Visitors"
+    },
+    {
+      "id_segment": 410401,
+      "name": "CVS Pharmacy",
+      "report": "Shopping Preferences",
+      "type": "Store Visitors"
+    },
+    {
+      "id_segment": 410402,
+      "name": "Duane Reader",
+      "report": "Shopping Preferences",
+      "type": "Store Visitors"
+    },
+    {
+      "id_segment": 410403,
+      "name": "Walgreens",
+      "report": "Shopping Preferences",
+      "type": "Store Visitors"
+    },
+    {
+      "id_segment": 410500,
+      "name": "Home Improvement Hardware Store Retailers",
+      "report": "Shopping Preferences",
+      "type": "Store Visitors"
+    },
+    {
+      "id_segment": 410501,
+      "name": "Ace Hardware",
+      "report": "Shopping Preferences",
+      "type": "Store Visitors"
+    },
+    {
+      "id_segment": 410502,
+      "name": "Home Depot",
+      "report": "Shopping Preferences",
+      "type": "Store Visitors"
+    },
+    {
+      "id_segment": 410503,
+      "name": "Lowes",
+      "report": "Shopping Preferences",
+      "type": "Store Visitors"
+    },
+    {
+      "id_segment": 410504,
+      "name": "True Value Hardware",
+      "report": "Shopping Preferences",
+      "type": "Store Visitors"
+    },
+    {
+      "id_segment": 730100,
+      "name": "Credit Card Users",
+      "report": "Shopping Preferences",
+      "type": "Personal Finances"
+    },
+    {
+      "id_segment": 730101,
+      "name": "Frequent Corporate Credit Card Users",
+      "report": "Shopping Preferences",
+      "type": "Personal Finances"
+    },
+    {
+      "id_segment": 730102,
+      "name": "Frequent credit card users",
+      "report": "Shopping Preferences",
+      "type": "Personal Finances"
+    },
+    {
+      "id_segment": 730103,
+      "name": "Frequent Debit Card Users",
+      "report": "Shopping Preferences",
+      "type": "Personal Finances"
+    },
+    {
+      "id_segment": 730104,
+      "name": "Frequent Major Credit Card Users",
+      "report": "Shopping Preferences",
+      "type": "Personal Finances"
+    },
+    {
+      "id_segment": 730105,
+      "name": "Frequent Premium Credit Card Users",
+      "report": "Shopping Preferences",
+      "type": "Personal Finances"
+    },
+    {
+      "id_segment": 730106,
+      "name": "Store Credit Card Users",
+      "report": "Shopping Preferences",
+      "type": "Personal Finances"
+    },
+    {
+      "id_segment": 730201,
+      "name": "Likely to Pay their Credit Balance Monthly",
+      "report": "Shopping Preferences",
+      "type": "Personal Finances"
+    },
+    {
+      "id_segment": 730202,
+      "name": "Pay the Minimum on their Credit Card",
+      "report": "Shopping Preferences",
+      "type": "Personal Finances"
+    },
+    {
+      "id_segment": 730400,
+      "name": "Investments",
+      "report": "Shopping Preferences",
+      "type": "Personal Finances"
+    },
+    {
+      "id_segment": 730401,
+      "name": "Owns a Retirement Plan",
+      "report": "Shopping Preferences",
+      "type": "Personal Finances"
+    },
+    {
+      "id_segment": 730402,
+      "name": "Trade Online",
+      "report": "Shopping Preferences",
+      "type": "Personal Finances"
+    },
+    {
+      "id_segment": 730403,
+      "name": "Active Investor",
+      "report": "Shopping Preferences",
+      "type": "Personal Finances"
+    },
+    {
+      "id_segment": 730404,
+      "name": "Brokerage Account Owner",
+      "report": "Shopping Preferences",
+      "type": "Personal Finances"
+    },
+    {
+      "id_segment": 730405,
+      "name": "Mutual Fund Investor",
+      "report": "Shopping Preferences",
+      "type": "Personal Finances"
+    },
+    {
+      "id_segment": 730501,
+      "name": "Careful Money Managers",
+      "report": "Shopping Preferences",
+      "type": "Personal Finances"
+    },
+    {
+      "id_segment": 730502,
+      "name": "Smart Investors",
+      "report": "Shopping Preferences",
+      "type": "Personal Finances"
+    },
+    {
+      "id_segment": 730503,
+      "name": "Investment Leaders",
+      "report": "Shopping Preferences",
+      "type": "Personal Finances"
+    },
+    {
+      "id_segment": 730601,
+      "name": "Likely to pay their debts tier 1",
+      "report": "Shopping Preferences",
+      "type": "Personal Finances"
+    },
+    {
+      "id_segment": 730602,
+      "name": "Likely to pay their debts tier 2",
+      "report": "Shopping Preferences",
+      "type": "Personal Finances"
+    },
+    {
+      "id_segment": 730603,
+      "name": "Likely to pay their debts tier 3",
+      "report": "Shopping Preferences",
+      "type": "Personal Finances"
+    },
+    {
+      "id_segment": 730604,
+      "name": "Likely to pay their debts tier 4",
+      "report": "Shopping Preferences",
+      "type": "Personal Finances"
+    },
+    {
+      "id_segment": 730605,
+      "name": "Likely to pay their debts tier 5",
+      "report": "Shopping Preferences",
+      "type": "Personal Finances"
+    },
+    {
+      "id_segment": 730606,
+      "name": "Likely to pay their debts tier 6",
+      "report": "Shopping Preferences",
+      "type": "Personal Finances"
+    },
+    {
+      "id_segment": 730607,
+      "name": "Likely to pay their debts tier 7",
+      "report": "Shopping Preferences",
+      "type": "Personal Finances"
+    },
+    {
+      "id_segment": 730701,
+      "name": "Tax Shelter Model - Portfolio Value $100,000+401k, IRA, or Tax Shelter Annuity",
+      "report": "Shopping Preferences",
+      "type": "Personal Finances"
+    },
+    {
+      "id_segment": 730702,
+      "name": "Tax Return - Self prepare user",
+      "report": "Shopping Preferences",
+      "type": "Personal Finances"
+    },
+    {
+      "id_segment": 730703,
+      "name": "Tax Return - Professional Service Prepare user",
+      "report": "Shopping Preferences",
+      "type": "Personal Finances"
+    },
+    {
+      "id_segment": 730704,
+      "name": "Online Tax Software User",
+      "report": "Shopping Preferences",
+      "type": "Personal Finances"
+    },
+    {
+      "id_segment": 730705,
+      "name": "Offline Tax Software User",
+      "report": "Shopping Preferences",
+      "type": "Personal Finances"
+    },
+    {
+      "id_segment": 740100,
+      "name": "Active Online",
+      "report": "Shopping Preferences",
+      "type": "Online Activity"
+    },
+    {
+      "id_segment": 740101,
+      "name": "Dependent on Online Research",
+      "report": "Shopping Preferences",
+      "type": "Online Activity"
+    },
+    {
+      "id_segment": 740102,
+      "name": "Online Banking Users",
+      "report": "Shopping Preferences",
+      "type": "Online Activity"
+    },
+    {
+      "id_segment": 740103,
+      "name": "Highly Active Online Users",
+      "report": "Shopping Preferences",
+      "type": "Online Activity"
+    },
+    {
+      "id_segment": 740104,
+      "name": "General Activities Online Users",
+      "report": "Shopping Preferences",
+      "type": "Online Activity"
+    },
+    {
+      "id_segment": 740106,
+      "name": "Cord Cutters",
+      "report": "Shopping Preferences",
+      "type": "Online Activity"
+    },
+    {
+      "id_segment": 740200,
+      "name": "Donors",
+      "report": "Shopping Preferences",
+      "type": "Donors"
+    },
+    {
+      "id_segment": 740201,
+      "name": "Contributes by Volunteering",
+      "report": "Shopping Preferences",
+      "type": "Donors"
+    },
+    {
+      "id_segment": 740202,
+      "name": "Contributes to Arts/Culture Charities",
+      "report": "Shopping Preferences",
+      "type": "Donors"
+    },
+    {
+      "id_segment": 740203,
+      "name": "Contributes to Charities",
+      "report": "Shopping Preferences",
+      "type": "Donors"
+    },
+    {
+      "id_segment": 740204,
+      "name": "Contributes to Education Charities",
+      "report": "Shopping Preferences",
+      "type": "Donors"
+    },
+    {
+      "id_segment": 740205,
+      "name": "Contributes to Health Charities",
+      "report": "Shopping Preferences",
+      "type": "Donors"
+    },
+    {
+      "id_segment": 740206,
+      "name": "Contributes to Political Charities",
+      "report": "Shopping Preferences",
+      "type": "Donors"
+    },
+    {
+      "id_segment": 740207,
+      "name": "Contributes to Private Foundations",
+      "report": "Shopping Preferences",
+      "type": "Donors"
+    },
+    {
+      "id_segment": 740301,
+      "name": "Think and Act Green",
+      "report": "Shopping Preferences",
+      "type": "Green Awareness"
+    },
+    {
+      "id_segment": 740302,
+      "name": "Likely to Think Green",
+      "report": "Shopping Preferences",
+      "type": "Green Awareness"
+    },
+    {
+      "id_segment": 740303,
+      "name": "Have Potential to Think Green",
+      "report": "Shopping Preferences",
+      "type": "Green Awareness"
+    },
+    {
+      "id_segment": 740304,
+      "name": "True Browns",
+      "report": "Shopping Preferences",
+      "type": "Green Awareness"
+    },
+    {
+      "id_segment": 740701,
+      "name": "VOIP, Cable, and Internet Bundle Buyers",
+      "report": "Shopping Preferences",
+      "type": "Media Perception"
+    },
+    {
+      "id_segment": 740702,
+      "name": "Negativity to Advertisements",
+      "report": "Shopping Preferences",
+      "type": "Media Perception"
+    },
+    {
+      "id_segment": 740703,
+      "name": "Advertising Receptive",
+      "report": "Shopping Preferences",
+      "type": "Media Perception"
+    },
+    {
+      "id_segment": 740704,
+      "name": "Magazine Positive Perception",
+      "report": "Shopping Preferences",
+      "type": "Media Perception"
+    },
+    {
+      "id_segment": 740705,
+      "name": "Radio Positive Perception",
+      "report": "Shopping Preferences",
+      "type": "Media Perception"
+    },
+    {
+      "id_segment": 740706,
+      "name": "Newspaper Positive Perception",
+      "report": "Shopping Preferences",
+      "type": "Media Perception"
+    },
+    {
+      "id_segment": 740707,
+      "name": "TV Positive Perception",
+      "report": "Shopping Preferences",
+      "type": "Media Perception"
+    },
+    {
+      "id_segment": 740708,
+      "name": "Likely to Switch Mobile Service Providers",
+      "report": "Shopping Preferences",
+      "type": "Media Perception"
+    },
+    {
+      "id_segment": 740709,
+      "name": "Value Mobile Technology Features",
+      "report": "Shopping Preferences",
+      "type": "Media Perception"
+    },
+    {
+      "id_segment": 740710,
+      "name": "Value Traditional Mobile Usage",
+      "report": "Shopping Preferences",
+      "type": "Media Perception"
+    },
+    {
+      "id_segment": 740711,
+      "name": "Mobile Addicts",
+      "report": "Shopping Preferences",
+      "type": "Media Perception"
+    },
+    {
+      "id_segment": 740712,
+      "name": "Social Connectors",
+      "report": "Shopping Preferences",
+      "type": "Media Perception"
+    },
+    {
+      "id_segment": 740713,
+      "name": "Pragmatic Adopters",
+      "report": "Shopping Preferences",
+      "type": "Media Perception"
+    },
+    {
+      "id_segment": 740714,
+      "name": "Basic Mobile Plan Users",
+      "report": "Shopping Preferences",
+      "type": "Media Perception"
+    },
+    {
+      "id_segment": 740715,
+      "name": "Heavy User Mainly Work Related",
+      "report": "Shopping Preferences",
+      "type": "Media Perception"
+    },
+    {
+      "id_segment": 740716,
+      "name": "Non Mobile Users",
+      "report": "Shopping Preferences",
+      "type": "Media Perception"
+    },
+    {
+      "id_segment": 741001,
+      "name": "Approval Seeking",
+      "report": "Shopping Preferences",
+      "type": "Shopping Behavior"
+    },
+    {
+      "id_segment": 741002,
+      "name": "Brand Loyals",
+      "report": "Shopping Preferences",
+      "type": "Shopping Behavior"
+    },
+    {
+      "id_segment": 741003,
+      "name": "Impulse Buyers",
+      "report": "Shopping Preferences",
+      "type": "Shopping Behavior"
+    },
+    {
+      "id_segment": 741004,
+      "name": "Informed Consumers",
+      "report": "Shopping Preferences",
+      "type": "Shopping Behavior"
+    },
+    {
+      "id_segment": 741005,
+      "name": "Smart Greens",
+      "report": "Shopping Preferences",
+      "type": "Shopping Behavior"
+    },
+    {
+      "id_segment": 741006,
+      "name": "Child Influenced Shoppers",
+      "report": "Shopping Preferences",
+      "type": "Shopping Behavior"
+    },
+    {
+      "id_segment": 741007,
+      "name": "Loyalty Card Users",
+      "report": "Shopping Preferences",
+      "type": "Shopping Behavior"
+    },
+    {
+      "id_segment": 741008,
+      "name": "Warehouse Club Members",
+      "report": "Shopping Preferences",
+      "type": "Shopping Behavior"
+    },
+    {
+      "id_segment": 741009,
+      "name": "AARP Members",
+      "report": "Shopping Preferences",
+      "type": "Shopping Behavior"
+    },
+    {
+      "id_segment": 741010,
+      "name": "Retail Shoppers",
+      "report": "Shopping Preferences",
+      "type": "Shopping Behavior"
+    },
+    {
+      "id_segment": 741011,
+      "name": "Just the Essentials",
+      "report": "Shopping Preferences",
+      "type": "Shopping Behavior"
+    },
+    {
+      "id_segment": 741012,
+      "name": "Status Strivers",
+      "report": "Shopping Preferences",
+      "type": "Shopping Behavior"
+    },
+    {
+      "id_segment": 741013,
+      "name": "Mall Maniacs",
+      "report": "Shopping Preferences",
+      "type": "Shopping Behavior"
+    },
+    {
+      "id_segment": 741014,
+      "name": "Upscale Clicks and Bricks",
+      "report": "Shopping Preferences",
+      "type": "Shopping Behavior"
+    },
+    {
+      "id_segment": 741015,
+      "name": "Virtual Shoppers",
+      "report": "Shopping Preferences",
+      "type": "Shopping Behavior"
+    },
+    {
+      "id_segment": 741016,
+      "name": "Original Traditionalists",
+      "report": "Shopping Preferences",
+      "type": "Shopping Behavior"
+    },
+    {
+      "id_segment": 760100,
+      "name": "Frequent Flyer Program Member",
+      "report": "Shopping Preferences",
+      "type": "Travel"
+    },
+    {
+      "id_segment": 760200,
+      "name": "High Frequency Business Traveler",
+      "report": "Shopping Preferences",
+      "type": "Travel"
+    },
+    {
+      "id_segment": 760300,
+      "name": "High Frequency Cruise Enthusiast",
+      "report": "Shopping Preferences",
+      "type": "Travel"
+    },
+    {
+      "id_segment": 760400,
+      "name": "High Frequency Domestic Vacationer",
+      "report": "Shopping Preferences",
+      "type": "Travel"
+    },
+    {
+      "id_segment": 760500,
+      "name": "High Frequency Foreign Vacationer",
+      "report": "Shopping Preferences",
+      "type": "Travel"
+    },
+    {
+      "id_segment": 760600,
+      "name": "Hotel Guest Loyalty Program",
+      "report": "Shopping Preferences",
+      "type": "Travel"
+    },
+    {
+      "id_segment": 760700,
+      "name": "Past Purchase - Travel in General",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 760701,
+      "name": "Online Travel in General Buyers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 760702,
+      "name": "Retail Travel in General Buyers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 760800,
+      "name": "Past Purchase - Travel and Luggage",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 760801,
+      "name": "Travel and Luggage Purchase of $1-$20",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 760802,
+      "name": "Travel and Luggage Purchase of $21-$63",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 760803,
+      "name": "Travel and Luggage Purchase of $64-$9999",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 760804,
+      "name": "Travel and Luggage Power Buyer",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 760900,
+      "name": "Past Purchase - Outdoor Life",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 760901,
+      "name": "Online Outdoor Life Buyers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 760902,
+      "name": "Retail Outdoor Life Buyers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 760903,
+      "name": "Outdoor Life Purchase of $1-$45",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 760904,
+      "name": "Outdoor Life Purchase of $46-$245",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 760905,
+      "name": "Outdoor Life Purchase of $246-$9999",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 760906,
+      "name": "Outdoor Life Power Buyer",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 761000,
+      "name": "Past Purchase - Outdoors Soft Goods",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 761001,
+      "name": "Online Outdoor Soft Goods Buyers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 761002,
+      "name": "Retail Outdoor Soft Goods Buyers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 761100,
+      "name": "Past Purchase - Outdoors Hard Goods",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 761101,
+      "name": "Online Outdoor Hard Goods Buyers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 761102,
+      "name": "Retail Outdoor Hard Goods Buyers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770100,
+      "name": "Past Purchase - Automotive and Accessories",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770101,
+      "name": "Online Automotive and Accessories Buyers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770102,
+      "name": "Retail Automotive and Accessories Buyers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770103,
+      "name": "Automotive and Accessories Purchase of $1-$16",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770104,
+      "name": "Automotive and Accessories Purchase of $17-$160",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770105,
+      "name": "Automotive and Accessories Purchase of $161-$9999",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770106,
+      "name": "Automotive and Accessories Power Buyer",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770200,
+      "name": "Past Purchase - Childrens Merchandise",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770210,
+      "name": "Childrens Merchandise Purchase of $1-$37",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770220,
+      "name": "Childrens Merchandise Purchase of $38-$284",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770230,
+      "name": "Childrens Merchandise Purchase of $285-$9999",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770240,
+      "name": "Childrens Merchandise Power Buyer",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770250,
+      "name": "Toys",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770251,
+      "name": "Online Toys Buyers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770252,
+      "name": "Retail Toys Buyers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770300,
+      "name": "Past Purchase - Electronics",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770310,
+      "name": "Computers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770311,
+      "name": "Online Computers Buyers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770312,
+      "name": "Retail Computers Buyers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770320,
+      "name": "Electronics and Gadgets",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770321,
+      "name": "Online Electronics and Gadgets Buyers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770322,
+      "name": "Retail Electronics and Gadgets Buyers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770323,
+      "name": "Electronics and Gadgets Purchase of $1-$16",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770324,
+      "name": "Electronics and Gadgets Purchase of $17-$147",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770325,
+      "name": "Electronics and Gadgets Purchase of $148-$9999",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770326,
+      "name": "Electronics and Gadgets Power Buyer",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770400,
+      "name": "Past Purchase - Fashion",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770410,
+      "name": "Accessories",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770411,
+      "name": "Online Accessories Buyers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770412,
+      "name": "Retail Accessories Buyers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770420,
+      "name": "Apparel",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770421,
+      "name": "Online Apparel Buyers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770422,
+      "name": "Retail Apparel Buyers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770430,
+      "name": "Shoes",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770431,
+      "name": "Online Shoe Buyers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770432,
+      "name": "Retail Shoe Buyers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770440,
+      "name": "Western Apparel",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770441,
+      "name": "Western Apparel Purchase of $1-$25",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770442,
+      "name": "Western Apparel Purchase of $26-$129",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770443,
+      "name": "Western Apparel Purchase of $130-$9999",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770444,
+      "name": "Western Apparel Power Buyer",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770450,
+      "name": "High End Women Apparel",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770451,
+      "name": "High End Women Apparel Purchase of $1-$170",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770452,
+      "name": "High End Women Apparel Purchase of $171-$1022",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770453,
+      "name": "High End Women Apparel Purchase of $1023-$9999",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770454,
+      "name": "High End Women Apparel Power Buyer",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770460,
+      "name": "Mid-Price Women Apparel",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770461,
+      "name": "Mid-Price Women Apparel Purchase of $1-$55",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770462,
+      "name": "Mid-Price Women Apparel Purchase of $56-$165",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770463,
+      "name": "Mid-Price Women Apparel Purchase of $166-$9999",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770464,
+      "name": "Mid-Price Women Apparel Power Buyer",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770470,
+      "name": "Low-Price Women Apparel",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770471,
+      "name": "Low-Price Women Apparel Purchase of $1-$19",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770472,
+      "name": "Low-Price Women Apparel Purchase of $20-$45",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770473,
+      "name": "Low-Price Women Apparel Purchase of $46-$9999",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770474,
+      "name": "Low-Price Women Apparel Power Buyer",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770480,
+      "name": "Casual Women Apparel",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770481,
+      "name": "Casual Women Apparel Purchase of $1-$22",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770482,
+      "name": "Casual Women Apparel Purchase of $23-$129",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770483,
+      "name": "Casual Women Apparel Purchase of $130-$9999",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770484,
+      "name": "Casual Women Apparel Power Buyer",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770490,
+      "name": "Plus-Size Women Apparel",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770491,
+      "name": "Plus-Size Women Apparel Purchase of $1-$49",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770492,
+      "name": "Plus-Size Women Apparel Purchase of $50-$400",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770493,
+      "name": "Plus-Size Women Apparel Purchase of $401-$9999",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770494,
+      "name": "Plus-Size Women Apparel Power Buyer",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770500,
+      "name": "Athletic Women Apparel",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770501,
+      "name": "Athletic Women Apparel Purchase of $1-$30",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770502,
+      "name": "Athletic Women Apparel Purchase of $31-$167",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770503,
+      "name": "Athletic Women Apparel Purchase of $168-$9999",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770504,
+      "name": "Athletic Women Apparel Power Buyer",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770510,
+      "name": "Mens Casual Apparel",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770511,
+      "name": "Mens Casual Apparel Purchase of $1-$46",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770512,
+      "name": "Mens Casual Apparel Purchase of $47-$331",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770513,
+      "name": "Mens Casual Apparel Purchase of $332-$9999",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770514,
+      "name": "Mens Casual Apparel Power Buyer",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770520,
+      "name": "Children Apparel",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770521,
+      "name": "Children Apparel Purchase of $1-$30",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770522,
+      "name": "Children Apparel Purchase of $31-$258",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770523,
+      "name": "Children Apparel Purchase of $259-$9999",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770524,
+      "name": "Children Apparel Power Buyer",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770530,
+      "name": "Young Adult Clothing Shoppers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770600,
+      "name": "Past Purchase - Gifts",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770610,
+      "name": "Seasonal Gifts",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770611,
+      "name": "Seasonal Gifts Purchase of $1-$20",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770612,
+      "name": "Seasonal Gifts Purchase of $21-$74",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770613,
+      "name": "Seasonal Gifts Purchase of $75-$9999",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770614,
+      "name": "Seasonal Gifts Power Buyer",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770620,
+      "name": "Mid-Price Gifts",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770621,
+      "name": "Mid-Price Gifts Purchase of $1-$20",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770622,
+      "name": "Mid-Price Gifts Purchase of $21-$95",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770623,
+      "name": "Mid-Price Gifts Purchase of $96-$9999",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770624,
+      "name": "Mid-Price Gifts Power Buyer",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770630,
+      "name": "Gift Cards and Stationery",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770631,
+      "name": "Gift Cards Purchase of $1-$18",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770632,
+      "name": "Gift Cards Purchase of $19-$123",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770633,
+      "name": "Gift Cards Purchase of $124-$9999",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770634,
+      "name": "Gift Cards Power Buyer",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770700,
+      "name": "Past Purchase - Hobbies and Crafts",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770701,
+      "name": "Online Hobbies and Crafts Product Buyers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770702,
+      "name": "Retail Hobbies and Crafts Product Buyers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770703,
+      "name": "Hobbies and Crafts Product Purchase of $1-$18",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770704,
+      "name": "Hobbies and Crafts Product Purchase of $19-$160",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770705,
+      "name": "Hobbies and Crafts Product Purchase of $161-$9999",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770706,
+      "name": "Hobbies and Crafts Product Power Buyer",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770710,
+      "name": "Books",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770711,
+      "name": "Books Purchase of $1-$18",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770712,
+      "name": "Books Purchase of $19-$160",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770713,
+      "name": "Books Purchase of $161-$9999",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770714,
+      "name": "Books Power Buyer",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770720,
+      "name": "Collectibles",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770721,
+      "name": "Collectibles Purchase of $1-$29",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770722,
+      "name": "Collectibles Purchase of $30-$175",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770723,
+      "name": "Collectibles Purchase of $176-$9999",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770724,
+      "name": "Collectibles Power Buyer",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770730,
+      "name": "Music",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770731,
+      "name": "Music Purchase of $1-$18",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770732,
+      "name": "Music Purchase of $19-$160",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770733,
+      "name": "Music Purchase of $161-$9999",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770734,
+      "name": "Music Power Buyer",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770800,
+      "name": "Past Purchase - Home",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770810,
+      "name": "Furniture",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770811,
+      "name": "Online Furniture Buyers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770812,
+      "name": "Retail Furniture Buyers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770813,
+      "name": "Furniture Purchase of $1-$41",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770814,
+      "name": "Furniture Purchase of $42-$320",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770815,
+      "name": "Furniture Purchase of $321-$9999",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770816,
+      "name": "Furniture Power Buyer",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770820,
+      "name": "Linen/Bedding",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770821,
+      "name": "Linen/Bedding Purchase of $1-$12",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770822,
+      "name": "Linen/Bedding Purchase of $13-$90",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770823,
+      "name": "Linen/Bedding Purchase of $91-$9999",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770824,
+      "name": "Linen/Bedding Power Buyer",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770830,
+      "name": "Kitchen",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770831,
+      "name": "Online Kitchen Supplies and Appliances Buyers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770832,
+      "name": "Retail Kitchen Supplies and Appliances Buyers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770840,
+      "name": "Kitchen and Tabletop",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770841,
+      "name": "Kitchen and Tabletop Purchase of $1-$28",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770842,
+      "name": "Kitchen and Tabletop Purchase of $29-$191",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770843,
+      "name": "Kitchen and Tabletop Purchase of $192-$9999",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770844,
+      "name": "Kitchen and Tabletop Power Buyer",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770850,
+      "name": "Tabletop and Dining",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770851,
+      "name": "Online Tabletop and Dining Buyers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770852,
+      "name": "Retail Tabletop and Dining Buyers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770860,
+      "name": "Food and Beverages",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770861,
+      "name": "Online Food and Beverages Buyers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770862,
+      "name": "Retail Food and Beverages Buyers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770863,
+      "name": "Food and Snacks Purchase of $1-$30",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770864,
+      "name": "Food and Snacks Purchase of $31-$150",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770865,
+      "name": "Food and Snacks Purchase of $151-$9999",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770866,
+      "name": "Food and Snacks Power Buyer",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770870,
+      "name": "Home Decor",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770871,
+      "name": "Online Home Decor Buyers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770872,
+      "name": "Retail Home Decor Buyers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770880,
+      "name": "High-Price Home Decor",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770881,
+      "name": "High-Price Home Decor Purchase of $1-$2",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770882,
+      "name": "High-Price Home Decor Purchase of $3-$173",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770883,
+      "name": "High-Price Home Decor Purchase of $174-$9999",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770884,
+      "name": "High-Price Home Decor Power Buyer",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770890,
+      "name": "Mid-Price Home Decor",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770891,
+      "name": "Mid-Price Home Decor Purchase of $1-$2",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770892,
+      "name": "Mid-Price Home Decor Purchase of $3-$44",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770893,
+      "name": "Mid-Price Home Decor Purchase of $45-$9999",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770894,
+      "name": "Mid-Price Home Decor Power Buyer",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770900,
+      "name": "Low-Price Home Decor",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770901,
+      "name": "Low-Price Home Decor Purchase of $1-$11",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770902,
+      "name": "Low-Price Home Decor Purchase of $12-$24",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770903,
+      "name": "Low-Price Home Decor Purchase of $25-$9999",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770904,
+      "name": "Low-Price Home Decor Power Buyer",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770910,
+      "name": "Home Domestics",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770911,
+      "name": "Online Home Domestics Buyers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770912,
+      "name": "Retail Home Domestics Buyers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770920,
+      "name": "Home Maintenance",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770921,
+      "name": "Online Home Maintenance Buyers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770922,
+      "name": "Retail Home Maintenance Buyers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770930,
+      "name": "Home Improvement and Safety",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770931,
+      "name": "Home Improvement and Safety Purchase of $1-$13",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770932,
+      "name": "Home Improvement and Safety Purchase of $14-$80",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770933,
+      "name": "Home Improvement and Safety Purchase of $81-$9999",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770934,
+      "name": "Home Improvement and Safety Power Buyer",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770940,
+      "name": "Lawn and Garden",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770941,
+      "name": "Online Lawn and Garden Buyers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770942,
+      "name": "Retail Lawn and Garden Buyers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770950,
+      "name": "Gardening Supplies",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770951,
+      "name": "Gardening Supplies Purchase of $1-$20",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770952,
+      "name": "Gardening Supplies Purchase of $21-$124",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770953,
+      "name": "Gardening Supplies Purchase of $125-$9999",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770954,
+      "name": "Gardening Supplies Power Buyer",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770960,
+      "name": "Gardening Decor",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770961,
+      "name": "Gardening Decor Purchase of $1-$25",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770962,
+      "name": "Gardening Decor Purchase of $26-$170",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770963,
+      "name": "Gardening Decor Purchase of $171-$9999",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770964,
+      "name": "Gardening Decor Power Buyer",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770970,
+      "name": "Seasonal Products",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770971,
+      "name": "Online Seasonal Products Buyers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 770972,
+      "name": "Retail Seasonal Products Buyers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 771000,
+      "name": "Past Purchase - Home Office",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 771001,
+      "name": "Online Home Office Buyers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 771002,
+      "name": "Retail Home Office Buyers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 771010,
+      "name": "Home Office Supplies",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 771011,
+      "name": "Home Office Supplies Purchase of $1-$55",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 771012,
+      "name": "Home Office Supplies Purchase of $56-$480",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 771013,
+      "name": "Home Office Supplies Purchase of $481-$9999",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 771014,
+      "name": "Home Office Supplies Power Buyer",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 772000,
+      "name": "Past Purchase - Luxury Store Shoppers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 772100,
+      "name": "High Price Jewelry and Accessories",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 772101,
+      "name": "High Price Jewelry and Accessories Purchase of $1-$36",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 772102,
+      "name": "High Price Jewelry and Accessories Purchase of $37-$240",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 772103,
+      "name": "High Price Jewelry and Accessories Purchase of $241-$9999",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 772104,
+      "name": "High Price Jewelry and Accessories Power Buyer",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 772200,
+      "name": "High End Spirit Drinkers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 772300,
+      "name": "Luxury Home Goods Shoppers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 772400,
+      "name": "Prestige Makeup Users",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 773000,
+      "name": "Past Purchase - Personal Care",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 773100,
+      "name": "Cosmetics and Perfume",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 773101,
+      "name": "Cosmetics and Perfume Purchase of $1-$27",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 773102,
+      "name": "Cosmetics and Perfume Purchase of $28-$206",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 773103,
+      "name": "Cosmetics and Perfume Purchase of $207-$9999",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 773104,
+      "name": "Cosmetics and Perfume Power Buyer",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 773105,
+      "name": "Non-Prestige Cosmetics Buyer",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 773200,
+      "name": "Teeth Whitening Product User",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 773300,
+      "name": "Vitamins and Personal Health Products",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 773301,
+      "name": "Online Personal Health Product Buyers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 773302,
+      "name": "Retail Personal Health Product Buyers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 773303,
+      "name": "Vitamins and Personal Health Products Purchase of $1-$30",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 773304,
+      "name": "Vitamins and Personal Health Products Purchase of $31-$218",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 773305,
+      "name": "Vitamins and Personal Health Products Purchase of $219-$9999",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 773306,
+      "name": "Vitamins and Personal Health Products Power Buyer",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 774000,
+      "name": "Past Purchase - Pets",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 774001,
+      "name": "Online Pets Buyers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 774002,
+      "name": "Retail Pets Buyers",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 774003,
+      "name": "Pets Purchase of $1-$13",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 774004,
+      "name": "Pets Purchase of $14-$67",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 774005,
+      "name": "Pets Purchase of $68-$9999",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 774006,
+      "name": "Pets Power Buyer",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 775000,
+      "name": "Past Purchase - Sports",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 775001,
+      "name": "Extreme or Snow Sports Purchase of $1-$30",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 775002,
+      "name": "Extreme or Snow Sports Purchase of $31-$104",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 775003,
+      "name": "Extreme or Snow Sports Purchase of $105-$9999",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    },
+    {
+      "id_segment": 775004,
+      "name": "Extreme or Snow Sports Power Buyer",
+      "report": "Shopping Preferences",
+      "type": "Past Purchase"
+    }
+  ]
